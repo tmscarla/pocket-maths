@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.GEO</key>
+	<dict>
+		<key>CountryProviders</key>
+		<dict>
+			<key>CN</key>
+			<dict>
+				<key>GEOCanLocalizeLabels</key>
+				<false/>
+				<key>GEOCanNavigate</key>
+				<false/>
+				<key>GEOCanResizeLabels</key>
+				<false/>
+				<key>GEOForwardGeocoderURL</key>
+				<string>https://gsp4-cn.ls.apple.com/PlaceSearchServlet</string>
+				<key>GEOGeocoderIsEncrypted</key>
+				<false/>
+				<key>GEOReverseGeocoderURL</key>
+				<string>https://gsp4-cn.ls.apple.com/PlaceSearchServlet</string>
+				<key>GEOSearchCompletionsSupported</key>
+				<false/>
+				<key>GEOVoltaireDirectionsURL</key>
+				<string>https://gsp5-cn.ls.apple.com/direction</string>
+				<key>GEOVoltaireLocationShiftURL</key>
+				<string>https://gsp13-cn.ls.apple.com/shift</string>
+				<key>GEOVoltaireResourceManifestURL</key>
+				<string>http://tile.is.autonavi.com/resources-%@-2.cn</string>
+				<key>GEOVoltaireSearchURL</key>
+				<string>https://gsp4-cn.ls.apple.com/PlaceSearchServlet</string>
+				<key>GEOVoltaireSearchURLProviderID</key>
+				<integer>57879</integer>
+				<key>GEOZilchSupported</key>
+				<false/>
+			</dict>
+			<key>KR</key>
+			<dict>
+				<key>GEOForwardGeocoderURL</key>
+				<string>https://gsp-sl01-ssl.ls.apple.com/fwdgeo.arpc</string>
+				<key>GEOLocalizedCategoriesURL</key>
+				<string>http://gspa21-kr.ls.apple.com/config/com.apple.GEO.BusinessLocalizedCategories-1.plist</string>
+				<key>GEOReverseGeocoderURL</key>
+				<string>https://gsp-sl01-ssl.ls.apple.com/revgeo.arpc</string>
+				<key>GEOVoltaireCompletionsURL</key>
+				<string>https://gsp-sl01-ssl.ls.apple.com/auto_complete.arpc</string>
+				<key>GEOVoltaireDirectionsURL</key>
+				<string>https://gsp-sl01-ssl.ls.apple.com/directions.arpc</string>
+				<key>GEOVoltaireETAURL</key>
+				<string>https://gsp-sl01-ssl.ls.apple.com/directions/etau.arpc</string>
+				<key>GEOVoltaireResourceManifestURL</key>
+				<string>http://gspa21-kr.ls.apple.com/config/prod-resources-%@%@-19.kr</string>
+				<key>GEOVoltaireSearchAttributionManifestURL</key>
+				<string>http://gspa21-kr.ls.apple.com/config/search-attribution-1</string>
+				<key>GEOVoltaireSearchURL</key>
+				<string>https://gsp-sl01-ssl.ls.apple.com/search.arpc</string>
+			</dict>
+		</dict>
+		<key>GEOResourceManifestUpdateTimeInterval</key>
+		<integer>43200</integer>
+		<key>https://gsp-ssl.ls.apple.com/search.arpc|43</key>
+		<string>50|60</string>
+	</dict>
+</dict>
+</plist>

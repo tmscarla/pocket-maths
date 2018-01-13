@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.cloudrecents.CloudRecentsAgent</key>
+	<dict>
+		<key>additional-stores</key>
+		<dict>
+			<key>com.apple.cloudrecents.phone</key>
+			<dict>
+				<key>kvstore-identifier</key>
+				<string>com.apple.cloudrecents.phone</string>
+				<key>scheduling</key>
+				<dict>
+					<key>nextReason</key>
+					<integer>8</integer>
+				</dict>
+			</dict>
+			<key>com.apple.mail.recents</key>
+			<dict>
+				<key>kvstore-identifier</key>
+				<string>com.apple.mail.recents</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>com.apple.syncedpreferences</key>
+	<dict>
+		<key>pushNotifications</key>
+		<dict/>
+		<key>wasDisabledLastTime</key>
+		<true/>
+	</dict>
+	<key>com.apple.syncedpreferences.forced</key>
+	<dict>
+		<key>pushNotifications</key>
+		<dict/>
+		<key>wasDisabledLastTime</key>
+		<true/>
+	</dict>
+	<key>com.apple.syncedpreferences.pim</key>
+	<dict>
+		<key>pushNotifications</key>
+		<dict/>
+		<key>wasDisabledLastTime</key>
+		<true/>
+	</dict>
+	<key>com.apple.syncedpreferences.push</key>
+	<dict/>
+	<key>com.apple.wifid</key>
+	<dict>
+		<key>kvstore-identifier</key>
+		<string>com.apple.wifid.known-networks</string>
+		<key>scheduling</key>
+		<dict>
+			<key>nextReason</key>
+			<integer>8</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

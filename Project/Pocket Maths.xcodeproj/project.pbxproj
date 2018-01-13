@@ -1,0 +1,1350 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7A20534B189ABF8800F7014F /* SBNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A20534A189ABF8800F7014F /* SBNavigationController.m */; };
+		7A32BEB218A05E5C00D286A4 /* bottoneipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BE9918A05E5C00D286A4 /* bottoneipad.png */; };
+		7A32BEB318A05E5C00D286A4 /* bottoneipad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BE9A18A05E5C00D286A4 /* bottoneipad@2x.png */; };
+		7A32BEB418A05E5C00D286A4 /* conicheipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BE9B18A05E5C00D286A4 /* conicheipad.png */; };
+		7A32BEB518A05E5C00D286A4 /* conicheipad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BE9C18A05E5C00D286A4 /* conicheipad@2x.png */; };
+		7A32BEB618A05E5C00D286A4 /* coveripad.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BE9D18A05E5C00D286A4 /* coveripad.png */; };
+		7A32BEB718A05E5C00D286A4 /* coveripad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BE9E18A05E5C00D286A4 /* coveripad@2x.png */; };
+		7A32BEB818A05E5C00D286A4 /* formularioipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BE9F18A05E5C00D286A4 /* formularioipad.png */; };
+		7A32BEB918A05E5C00D286A4 /* formularioipad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEA018A05E5C00D286A4 /* formularioipad@2x.png */; };
+		7A32BEBA18A05E5C00D286A4 /* glossarioipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEA118A05E5C00D286A4 /* glossarioipad.png */; };
+		7A32BEBB18A05E5C00D286A4 /* glossarioipad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEA218A05E5C00D286A4 /* glossarioipad@2x.png */; };
+		7A32BEBC18A05E5C00D286A4 /* infoipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEA318A05E5C00D286A4 /* infoipad.png */; };
+		7A32BEBD18A05E5C00D286A4 /* infoipad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEA418A05E5C00D286A4 /* infoipad@2x.png */; };
+		7A32BEBE18A05E5C00D286A4 /* linksipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEA518A05E5C00D286A4 /* linksipad.png */; };
+		7A32BEBF18A05E5C00D286A4 /* linksipad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEA618A05E5C00D286A4 /* linksipad@2x.png */; };
+		7A32BEC018A05E5C00D286A4 /* logoipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEA718A05E5C00D286A4 /* logoipad.png */; };
+		7A32BEC118A05E5C00D286A4 /* logoipad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEA818A05E5C00D286A4 /* logoipad@2x.png */; };
+		7A32BEC218A05E5C00D286A4 /* secondogrado.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEA918A05E5C00D286A4 /* secondogrado.png */; };
+		7A32BEC318A05E5C00D286A4 /* secondogrado@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEAA18A05E5C00D286A4 /* secondogrado@2x.png */; };
+		7A32BEC418A05E5C00D286A4 /* settingsipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEAB18A05E5C00D286A4 /* settingsipad.png */; };
+		7A32BEC518A05E5C00D286A4 /* settingsipad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEAC18A05E5C00D286A4 /* settingsipad@2x.png */; };
+		7A32BEC618A05E5C00D286A4 /* sincostanipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEAD18A05E5C00D286A4 /* sincostanipad.png */; };
+		7A32BEC718A05E5C00D286A4 /* sincostanipad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEAE18A05E5C00D286A4 /* sincostanipad@2x.png */; };
+		7A32BEC818A05E5C00D286A4 /* testipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEAF18A05E5C00D286A4 /* testipad.png */; };
+		7A32BEC918A05E5C00D286A4 /* testipad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEB018A05E5C00D286A4 /* testipad@2x.png */; };
+		7A32BECA18A05E5C00D286A4 /* utilityipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A32BEB118A05E5C00D286A4 /* utilityipad.png */; };
+		7A436D56188E888F0063E9E5 /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A436D55188E888F0063E9E5 /* MainStoryboard_iPad.storyboard */; };
+		7A47EF0F17D1795800A36B65 /* CoverApp@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A47EF0717D1795800A36B65 /* CoverApp@2x.png */; };
+		7A4F0204189C15DB00AA0CB2 /* Circonferenza_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01EE189C15DB00AA0CB2 /* Circonferenza_Esercizi.pdf */; };
+		7A4F0205189C15DB00AA0CB2 /* Derivate_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01EF189C15DB00AA0CB2 /* Derivate_Esercizi.pdf */; };
+		7A4F0206189C15DB00AA0CB2 /* Ellisse_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01F0189C15DB00AA0CB2 /* Ellisse_Esercizi.pdf */; };
+		7A4F0207189C15DB00AA0CB2 /* Esponenziali_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01F1189C15DB00AA0CB2 /* Esponenziali_Esercizi.pdf */; };
+		7A4F0208189C15DB00AA0CB2 /* Funzioni_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01F2189C15DB00AA0CB2 /* Funzioni_Esercizi.pdf */; };
+		7A4F0209189C15DB00AA0CB2 /* Geometria Analitica nello Spazio_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01F3189C15DB00AA0CB2 /* Geometria Analitica nello Spazio_Esercizi.pdf */; };
+		7A4F020A189C15DB00AA0CB2 /* Geometria della sfera_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01F4189C15DB00AA0CB2 /* Geometria della sfera_Esercizi.pdf */; };
+		7A4F020B189C15DB00AA0CB2 /* Geometria Euclidea nello Spazio_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01F5189C15DB00AA0CB2 /* Geometria Euclidea nello Spazio_Esercizi.pdf */; };
+		7A4F020C189C15DB00AA0CB2 /* Integrali_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01F6189C15DB00AA0CB2 /* Integrali_Esercizi.pdf */; };
+		7A4F020D189C15DB00AA0CB2 /* Iperbole_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01F7189C15DB00AA0CB2 /* Iperbole_Esercizi.pdf */; };
+		7A4F020E189C15DB00AA0CB2 /* Limiti di Funzioni e Continuita _Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01F8189C15DB00AA0CB2 /* Limiti di Funzioni e Continuita _Esercizi.pdf */; };
+		7A4F020F189C15DB00AA0CB2 /* Limiti di Successioni_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01F9189C15DB00AA0CB2 /* Limiti di Successioni_Esercizi.pdf */; };
+		7A4F0210189C15DB00AA0CB2 /* Logaritmi_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01FA189C15DB00AA0CB2 /* Logaritmi_Esercizi.pdf */; };
+		7A4F0211189C15DB00AA0CB2 /* Numeri Complessi_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01FB189C15DB00AA0CB2 /* Numeri Complessi_Esercizi.pdf */; };
+		7A4F0212189C15DB00AA0CB2 /* Parabola_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01FC189C15DB00AA0CB2 /* Parabola_Esercizi.pdf */; };
+		7A4F0213189C15DB00AA0CB2 /* Polinomi_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01FD189C15DB00AA0CB2 /* Polinomi_Esercizi.pdf */; };
+		7A4F0214189C15DB00AA0CB2 /* Retta_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01FE189C15DB00AA0CB2 /* Retta_Esercizi.pdf */; };
+		7A4F0215189C15DB00AA0CB2 /* Strutture algebriche_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F01FF189C15DB00AA0CB2 /* Strutture algebriche_Esercizi.pdf */; };
+		7A4F0216189C15DB00AA0CB2 /* Successioni_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0200189C15DB00AA0CB2 /* Successioni_Esercizi.pdf */; };
+		7A4F0217189C15DB00AA0CB2 /* Trasformazioni Geometriche_Esercizi[smallpdf.com].pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0201189C15DB00AA0CB2 /* Trasformazioni Geometriche_Esercizi[smallpdf.com].pdf */; };
+		7A4F0218189C15DB00AA0CB2 /* Trigonometria_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0202189C15DB00AA0CB2 /* Trigonometria_Esercizi.pdf */; };
+		7A4F0219189C15DB00AA0CB2 /* Vettori_Esercizi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0203189C15DB00AA0CB2 /* Vettori_Esercizi.pdf */; };
+		7A4F0238189C15FA00AA0CB2 /* Circonferenza.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F021B189C15FA00AA0CB2 /* Circonferenza.pdf */; };
+		7A4F0239189C15FA00AA0CB2 /* Derivate 1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F021C189C15FA00AA0CB2 /* Derivate 1.pdf */; };
+		7A4F023A189C15FA00AA0CB2 /* Derivate 2.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F021D189C15FA00AA0CB2 /* Derivate 2.pdf */; };
+		7A4F023B189C15FA00AA0CB2 /* Ellisse.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F021E189C15FA00AA0CB2 /* Ellisse.pdf */; };
+		7A4F023C189C15FA00AA0CB2 /* Esponenziali e Logaritmi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F021F189C15FA00AA0CB2 /* Esponenziali e Logaritmi.pdf */; };
+		7A4F023D189C15FA00AA0CB2 /* Funzioni 1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0220189C15FA00AA0CB2 /* Funzioni 1.pdf */; };
+		7A4F023E189C15FA00AA0CB2 /* Funzioni 2.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0221189C15FA00AA0CB2 /* Funzioni 2.pdf */; };
+		7A4F023F189C15FA00AA0CB2 /* Geometria Analitica nello Spazio.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0222189C15FA00AA0CB2 /* Geometria Analitica nello Spazio.pdf */; };
+		7A4F0240189C15FA00AA0CB2 /* Geometria della Sfera.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0223189C15FA00AA0CB2 /* Geometria della Sfera.pdf */; };
+		7A4F0241189C15FA00AA0CB2 /* Geometria Euclidea nello Spazio.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0224189C15FA00AA0CB2 /* Geometria Euclidea nello Spazio.pdf */; };
+		7A4F0242189C15FA00AA0CB2 /* Integrali.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0225189C15FA00AA0CB2 /* Integrali.pdf */; };
+		7A4F0243189C15FB00AA0CB2 /* Iperbole.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0226189C15FA00AA0CB2 /* Iperbole.pdf */; };
+		7A4F0244189C15FB00AA0CB2 /* Limiti di Funzioni e Continuita  1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0227189C15FA00AA0CB2 /* Limiti di Funzioni e Continuita  1.pdf */; };
+		7A4F0245189C15FB00AA0CB2 /* Limiti di Funzioni e Continuita  2.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0228189C15FA00AA0CB2 /* Limiti di Funzioni e Continuita  2.pdf */; };
+		7A4F0246189C15FB00AA0CB2 /* Limiti di Successioni.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0229189C15FA00AA0CB2 /* Limiti di Successioni.pdf */; };
+		7A4F0247189C15FB00AA0CB2 /* Numeri Complessi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F022A189C15FA00AA0CB2 /* Numeri Complessi.pdf */; };
+		7A4F0248189C15FB00AA0CB2 /* Numeri Naturali.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F022B189C15FA00AA0CB2 /* Numeri Naturali.pdf */; };
+		7A4F0249189C15FB00AA0CB2 /* Parabola.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F022C189C15FA00AA0CB2 /* Parabola.pdf */; };
+		7A4F024A189C15FB00AA0CB2 /* Polinomi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F022D189C15FA00AA0CB2 /* Polinomi.pdf */; };
+		7A4F024B189C15FB00AA0CB2 /* Retta nel Piano Cartesiano.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F022E189C15FA00AA0CB2 /* Retta nel Piano Cartesiano.pdf */; };
+		7A4F024C189C15FB00AA0CB2 /* Statistica 1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F022F189C15FA00AA0CB2 /* Statistica 1.pdf */; };
+		7A4F024D189C15FB00AA0CB2 /* Statistica 2.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0230189C15FA00AA0CB2 /* Statistica 2.pdf */; };
+		7A4F024E189C15FB00AA0CB2 /* Statistica 3.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0231189C15FA00AA0CB2 /* Statistica 3.pdf */; };
+		7A4F024F189C15FB00AA0CB2 /* Strutture Algebriche.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0232189C15FA00AA0CB2 /* Strutture Algebriche.pdf */; };
+		7A4F0250189C15FB00AA0CB2 /* Successioni.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0233189C15FA00AA0CB2 /* Successioni.pdf */; };
+		7A4F0251189C15FB00AA0CB2 /* Trasformazioni Geometriche del Piano.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0234189C15FA00AA0CB2 /* Trasformazioni Geometriche del Piano.pdf */; };
+		7A4F0252189C15FB00AA0CB2 /* Trigoniometria 2.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0235189C15FA00AA0CB2 /* Trigoniometria 2.pdf */; };
+		7A4F0253189C15FB00AA0CB2 /* Trigonometria 1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0236189C15FA00AA0CB2 /* Trigonometria 1.pdf */; };
+		7A4F0254189C15FB00AA0CB2 /* Vettori.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A4F0237189C15FA00AA0CB2 /* Vettori.pdf */; };
+		7A5230A117E8EE4100F7FD85 /* Tavole goniometriche.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7A5230A017E8EE4100F7FD85 /* Tavole goniometriche.pdf */; };
+		7A5230CD17EA5AD000F7FD85 /* SBConicheViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A5230CC17EA5AD000F7FD85 /* SBConicheViewController.m */; };
+		7A5230D017EB440500F7FD85 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A5230CF17EB440400F7FD85 /* Social.framework */; };
+		7A5B55DA189D674A00E9BF0D /* mat40.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A5B55D9189D674A00E9BF0D /* mat40.png */; };
+		7A5B55DC189D675200E9BF0D /* mat50.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A5B55DB189D675200E9BF0D /* mat50.png */; };
+		7A5B55DE189D675E00E9BF0D /* mat72.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A5B55DD189D675E00E9BF0D /* mat72.png */; };
+		7A5B55E0189D676700E9BF0D /* mat76.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A5B55DF189D676700E9BF0D /* mat76.png */; };
+		7A5B55E2189D677100E9BF0D /* mat100.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A5B55E1189D677100E9BF0D /* mat100.png */; };
+		7A5B55E4189D677F00E9BF0D /* mat144.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A5B55E3189D677F00E9BF0D /* mat144.png */; };
+		7A5B55E6189D678500E9BF0D /* mat152.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A5B55E5189D678500E9BF0D /* mat152.png */; };
+		7A5B55E8189D678A00E9BF0D /* mat1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A5B55E7189D678900E9BF0D /* mat1024.png */; };
+		7A5B55EA189D679A00E9BF0D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A5B55E9189D679A00E9BF0D /* Images.xcassets */; };
+		7A8A3FF41804372500BF618D /* utility@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A8A3FF31804372500BF618D /* utility@2x.png */; };
+		7A8ECD10179EA14500D882C7 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A8ECD0F179EA14500D882C7 /* MainStoryboard_iPhone.storyboard */; };
+		7A8ECD14179EA19200D882C7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7A8ECD13179EA19200D882C7 /* InfoPlist.strings */; };
+		7A90838717D6A24900AA36C8 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A8ECD0F179EA14500D882C7 /* MainStoryboard_iPhone.storyboard */; };
+		7A90838B17D7505800AA36C8 /* argomenti2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A90838A17D7505800AA36C8 /* argomenti2.png */; };
+		7A90838E17D751F100AA36C8 /* SBTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A90838D17D751F100AA36C8 /* SBTableViewController.m */; };
+		7A90839217DA720000AA36C8 /* x2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A90839117DA720000AA36C8 /* x2@2x.png */; };
+		7A90839417DA721000AA36C8 /* glossario@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A90839317DA721000AA36C8 /* glossario@2x.png */; };
+		7A90839617DA721A00AA36C8 /* formulario@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A90839517DA721A00AA36C8 /* formulario@2x.png */; };
+		7A90839A17DA723D00AA36C8 /* test@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A90839917DA723D00AA36C8 /* test@2x.png */; };
+		7A90839C17DA751600AA36C8 /* sincostan@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A90839B17DA751600AA36C8 /* sincostan@2x.png */; };
+		7A9083A517DCC0E100AA36C8 /* SBSecondoGradoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A9083A417DCC0E100AA36C8 /* SBSecondoGradoViewController.m */; };
+		7AA61710183F9903001EFC33 /* link.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AA6170F183F9903001EFC33 /* link.png */; };
+		7AA61712183F9909001EFC33 /* link@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AA61711183F9909001EFC33 /* link@2x.png */; };
+		7AA61716183FB4C4001EFC33 /* preferiti@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AA61715183FB4C4001EFC33 /* preferiti@2x.png */; };
+		7AA61718183FB4E4001EFC33 /* preferiti.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AA61717183FB4E4001EFC33 /* preferiti.png */; };
+		7ABDA0151794547300E17706 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7ABDA0141794547300E17706 /* UIKit.framework */; };
+		7ABDA0171794547300E17706 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7ABDA0161794547300E17706 /* Foundation.framework */; };
+		7ABDA0191794547300E17706 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7ABDA0181794547300E17706 /* CoreGraphics.framework */; };
+		7ABDA0211794547300E17706 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABDA0201794547300E17706 /* main.m */; };
+		7ABDA0251794547300E17706 /* SBAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABDA0241794547300E17706 /* SBAppDelegate.m */; };
+		7ABDA0341794547300E17706 /* SBViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABDA0331794547300E17706 /* SBViewController.m */; };
+		7ABDA03C1794547400E17706 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7ABDA03B1794547400E17706 /* SenTestingKit.framework */; };
+		7ABDA03D1794547400E17706 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7ABDA0141794547300E17706 /* UIKit.framework */; };
+		7ABDA03E1794547400E17706 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7ABDA0161794547300E17706 /* Foundation.framework */; };
+		7ABDA0461794547400E17706 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7ABDA0441794547400E17706 /* InfoPlist.strings */; };
+		7ABDA0491794547400E17706 /* Corso_di_MatematicaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABDA0481794547400E17706 /* Corso_di_MatematicaTests.m */; };
+		7AD25B4D180471F700CB8F44 /* CoverApp5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AD25B4C180471F700CB8F44 /* CoverApp5@2x.png */; };
+		7AD25B4F1804A95200CB8F44 /* mat58.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AD25B4E1804A95200CB8F44 /* mat58.png */; };
+		7AD25B511804A95D00CB8F44 /* mat80.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AD25B501804A95D00CB8F44 /* mat80.png */; };
+		7AD25B581804A98B00CB8F44 /* mat120.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AD25B571804A98B00CB8F44 /* mat120.png */; };
+		7AD25B5A1804A9EF00CB8F44 /* clock.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AD25B591804A9EF00CB8F44 /* clock.png */; };
+		7AD25B5C1804A9F500CB8F44 /* clock@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AD25B5B1804A9F500CB8F44 /* clock@2x.png */; };
+		7AD90AF218A3F9B30006D9A8 /* googleipadmaths.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AD90AF118A3F9B30006D9A8 /* googleipadmaths.png */; };
+		7AD90AF418A3F9B90006D9A8 /* googleipadmaths@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AD90AF318A3F9B90006D9A8 /* googleipadmaths@2x.png */; };
+		7AD90AF618A3F9C10006D9A8 /* twitteripadmaths.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AD90AF518A3F9C10006D9A8 /* twitteripadmaths.png */; };
+		7AD90AF818A3F9C70006D9A8 /* twitteripadmaths@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AD90AF718A3F9C70006D9A8 /* twitteripadmaths@2x.png */; };
+		7AD90AFA18A3F9D90006D9A8 /* fbipadmaths.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AD90AF918A3F9D90006D9A8 /* fbipadmaths.png */; };
+		7AD90AFC18A3F9DF0006D9A8 /* fbipadmaths@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AD90AFB18A3F9DF0006D9A8 /* fbipadmaths@2x.png */; };
+		7AE220F91803372300AF77AF /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7AE220F81803372300AF77AF /* MessageUI.framework */; };
+		7AE220FB180355BE00AF77AF /* Bibliografia.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE220FA180355BE00AF77AF /* Bibliografia.pdf */; };
+		7AE221411803623D00AF77AF /* Circonferenza_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2212D1803623D00AF77AF /* Circonferenza_Glossario.pdf */; };
+		7AE221421803623D00AF77AF /* Combinazione Lineare_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2212E1803623D00AF77AF /* Combinazione Lineare_Glossario.pdf */; };
+		7AE221431803623D00AF77AF /* Derivata_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2212F1803623D00AF77AF /* Derivata_Glossario.pdf */; };
+		7AE221441803623D00AF77AF /* Ellisse_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE221301803623D00AF77AF /* Ellisse_Glossario.pdf */; };
+		7AE221451803623D00AF77AF /* Funzione di ripartizione_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE221311803623D00AF77AF /* Funzione di ripartizione_Glossario.pdf */; };
+		7AE221471803623D00AF77AF /* Integrale_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE221331803623D00AF77AF /* Integrale_Glossario.pdf */; };
+		7AE221481803623D00AF77AF /* Iperbole_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE221341803623D00AF77AF /* Iperbole_Glossario.pdf */; };
+		7AE221491803623D00AF77AF /* Limite finito con X tendente a un valore finito_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE221351803623D00AF77AF /* Limite finito con X tendente a un valore finito_Glossario.pdf */; };
+		7AE2214A1803623D00AF77AF /* Limite finito di una successione_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE221361803623D00AF77AF /* Limite finito di una successione_Glossario.pdf */; };
+		7AE2214B1803623D00AF77AF /* Limite infinito con X tendente a un valore finito_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE221371803623D00AF77AF /* Limite infinito con X tendente a un valore finito_Glossario.pdf */; };
+		7AE2214C1803623D00AF77AF /* Limite infinito di una successione_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE221381803623D00AF77AF /* Limite infinito di una successione_Glossario.pdf */; };
+		7AE2214D1803623D00AF77AF /* Numeri Complessi_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE221391803623D00AF77AF /* Numeri Complessi_Glossario.pdf */; };
+		7AE2214E1803623D00AF77AF /* Parabola_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2213A1803623D00AF77AF /* Parabola_Glossario.pdf */; };
+		7AE2214F1803623D00AF77AF /* Polinomio_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2213B1803623D00AF77AF /* Polinomio_Glossario.pdf */; };
+		7AE221501803623D00AF77AF /* Probabilità_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2213C1803623D00AF77AF /* Probabilità_Glossario.pdf */; };
+		7AE221511803623D00AF77AF /* Rapporto incrementale_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2213D1803623D00AF77AF /* Rapporto incrementale_Glossario.pdf */; };
+		7AE221521803623D00AF77AF /* Retta orientata, Semiretta, Diedro, Triedro_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2213E1803623D00AF77AF /* Retta orientata, Semiretta, Diedro, Triedro_Glossario.pdf */; };
+		7AE221531803623D00AF77AF /* Struttura algebrica e gruppo_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2213F1803623D00AF77AF /* Struttura algebrica e gruppo_Glossario.pdf */; };
+		7AE221541803623D00AF77AF /* Successione_Glossario.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE221401803623D00AF77AF /* Successione_Glossario.pdf */; };
+		7AE2D09A17F4B6420055D10F /* Ellisse - Iperbole - Trasformazioni geometriche.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D08717F4B6420055D10F /* Ellisse - Iperbole - Trasformazioni geometriche.pdf */; };
+		7AE2D09B17F4B6420055D10F /* Funzioni - Derivate.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D08817F4B6420055D10F /* Funzioni - Derivate.pdf */; };
+		7AE2D09C17F4B6420055D10F /* Funzioni - Goniometria - Trigonometria.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D08917F4B6420055D10F /* Funzioni - Goniometria - Trigonometria.pdf */; };
+		7AE2D09D17F4B6420055D10F /* Funzioni - Insiemi - Probabilità.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D08A17F4B6420055D10F /* Funzioni - Insiemi - Probabilità.pdf */; };
+		7AE2D09E17F4B6420055D10F /* Funzioni - Logaritmi - Probabilità.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D08B17F4B6420055D10F /* Funzioni - Logaritmi - Probabilità.pdf */; };
+		7AE2D09F17F4B6420055D10F /* Goniometria - Trasformazioni geometriche.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D08C17F4B6420055D10F /* Goniometria - Trasformazioni geometriche.pdf */; };
+		7AE2D0A017F4B6420055D10F /* Integrali - Funzioni.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D08D17F4B6420055D10F /* Integrali - Funzioni.pdf */; };
+		7AE2D0A117F4B6420055D10F /* Iperbole - Ellisse - Goniometria.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D08E17F4B6420055D10F /* Iperbole - Ellisse - Goniometria.pdf */; };
+		7AE2D0A217F4B6420055D10F /* Limiti - Derivate - Funzioni.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D08F17F4B6420055D10F /* Limiti - Derivate - Funzioni.pdf */; };
+		7AE2D0A317F4B6420055D10F /* Limiti - Successioni.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D09017F4B6420055D10F /* Limiti - Successioni.pdf */; };
+		7AE2D0A417F4B6420055D10F /* Limiti.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D09117F4B6420055D10F /* Limiti.pdf */; };
+		7AE2D0A517F4B6420055D10F /* Logaritmi - Piano nello spazio - Retta nello spazio.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D09217F4B6420055D10F /* Logaritmi - Piano nello spazio - Retta nello spazio.pdf */; };
+		7AE2D0A617F4B6420055D10F /* Numeri complessi - Trasformazioni geometriche - Funzioni.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D09317F4B6420055D10F /* Numeri complessi - Trasformazioni geometriche - Funzioni.pdf */; };
+		7AE2D0A717F4B6420055D10F /* Numeri naturali - Parabola - Circonferenza.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D09417F4B6420055D10F /* Numeri naturali - Parabola - Circonferenza.pdf */; };
+		7AE2D0A817F4B6420055D10F /* Numeri naturali - Retta nel piano.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D09517F4B6420055D10F /* Numeri naturali - Retta nel piano.pdf */; };
+		7AE2D0A917F4B6420055D10F /* Parabola - Ellisse - Circonferenza.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D09617F4B6420055D10F /* Parabola - Ellisse - Circonferenza.pdf */; };
+		7AE2D0AA17F4B6420055D10F /* Simulazione Seconda Prova.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D09717F4B6420055D10F /* Simulazione Seconda Prova.pdf */; };
+		7AE2D0AB17F4B6420055D10F /* Trasformazioni geometriche - Goniometria.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7AE2D09817F4B6420055D10F /* Trasformazioni geometriche - Goniometria.pdf */; };
+		7AF14B761804AA6D000AC372 /* abc.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AF14B751804AA6D000AC372 /* abc.png */; };
+		7AF14B781804AA73000AC372 /* abc@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AF14B771804AA73000AC372 /* abc@2x.png */; };
+		7AF14B7A1804AAA5000AC372 /* facebook@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AF14B791804AAA5000AC372 /* facebook@2x.png */; };
+		7AF14B7C1804AAB9000AC372 /* twitter@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AF14B7B1804AAB9000AC372 /* twitter@2x.png */; };
+		7AF2E10F18103BA80035C17E /* logo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AF2E10E18103BA80035C17E /* logo@2x.png */; };
+		7AF2E11118107CE00035C17E /* coniche.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AF2E11018107CE00035C17E /* coniche.png */; };
+		7AF2E11318107CE70035C17E /* formulario.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AF2E11218107CE70035C17E /* formulario.png */; };
+		7AF2E11518107CEC0035C17E /* glossario.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AF2E11418107CEC0035C17E /* glossario.png */; };
+		7AF2E11718107CF50035C17E /* sincostan.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AF2E11618107CF50035C17E /* sincostan.png */; };
+		7AF2E11918107CFE0035C17E /* test.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AF2E11818107CFE0035C17E /* test.png */; };
+		7AF2E11B18107D050035C17E /* x2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AF2E11A18107D050035C17E /* x2.png */; };
+		7AF2E11D18107E670035C17E /* google.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AF2E11C18107E670035C17E /* google.png */; };
+		7AF2E11F18107E730035C17E /* google@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AF2E11E18107E730035C17E /* google@2x.png */; };
+		B23D1FC117FC614F0098A556 /* bottone.png in Resources */ = {isa = PBXBuildFile; fileRef = B23D1FBA17FC614F0098A556 /* bottone.png */; };
+		B23D1FC217FC614F0098A556 /* email.png in Resources */ = {isa = PBXBuildFile; fileRef = B23D1FBB17FC614F0098A556 /* email.png */; };
+		B23D1FCF17FC61850098A556 /* Geometria piana.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B23D1FC717FC61850098A556 /* Geometria piana.pdf */; };
+		B23D1FD017FC61850098A556 /* Geometria solida.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B23D1FC817FC61850098A556 /* Geometria solida.pdf */; };
+		B23D1FD117FC61850098A556 /* Insiemi numerici.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B23D1FC917FC61850098A556 /* Insiemi numerici.pdf */; };
+		B23D1FD217FC61850098A556 /* Insiemi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B23D1FCA17FC61850098A556 /* Insiemi.pdf */; };
+		B23D1FD317FC61850098A556 /* Logaritmi.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B23D1FCB17FC61850098A556 /* Logaritmi.pdf */; };
+		B23D1FD417FC61850098A556 /* Logica.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B23D1FCC17FC61850098A556 /* Logica.pdf */; };
+		B23D1FD517FC61850098A556 /* Potenze e radicali.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B23D1FCD17FC61850098A556 /* Potenze e radicali.pdf */; };
+		B23D1FD617FC61850098A556 /* Sistemi numerazione.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B23D1FCE17FC61850098A556 /* Sistemi numerazione.pdf */; };
+		B23D1FDD17FC61A10098A556 /* mat29.png in Resources */ = {isa = PBXBuildFile; fileRef = B23D1FD717FC61A10098A556 /* mat29.png */; };
+		B23D1FDE17FC61A10098A556 /* mat57.png in Resources */ = {isa = PBXBuildFile; fileRef = B23D1FD817FC61A10098A556 /* mat57.png */; };
+		B23D1FE117FC61A10098A556 /* mat114.png in Resources */ = {isa = PBXBuildFile; fileRef = B23D1FDB17FC61A10098A556 /* mat114.png */; };
+		B23D1FE617FC61CA0098A556 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B23D1FE317FC61CA0098A556 /* Default-568h@2x.png */; };
+		B23D1FE717FC61CA0098A556 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = B23D1FE417FC61CA0098A556 /* Default.png */; };
+		B23D1FE817FC61CA0098A556 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B23D1FE517FC61CA0098A556 /* Default@2x.png */; };
+		B27DD2BA17E6451B00FFD3CE /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = B27DD2B917E6451B00FFD3CE /* logo.png */; };
+		B28DBA3817F8CC1A00597F37 /* bibliografia.png in Resources */ = {isa = PBXBuildFile; fileRef = B28DBA2817F8CC1A00597F37 /* bibliografia.png */; };
+		B28DBA3C17F8CC1A00597F37 /* coniche@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B28DBA2C17F8CC1A00597F37 /* coniche@2x.png */; };
+		B28DBA4517F8CC1A00597F37 /* utility.png in Resources */ = {isa = PBXBuildFile; fileRef = B28DBA3517F8CC1A00597F37 /* utility.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		7ABDA03F1794547400E17706 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7ABDA0091794547300E17706 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7ABDA0101794547300E17706;
+			remoteInfo = "Corso di Matematica";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		7A205349189ABF8800F7014F /* SBNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBNavigationController.h; sourceTree = "<group>"; };
+		7A20534A189ABF8800F7014F /* SBNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBNavigationController.m; sourceTree = "<group>"; };
+		7A32BE9918A05E5C00D286A4 /* bottoneipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bottoneipad.png; sourceTree = "<group>"; };
+		7A32BE9A18A05E5C00D286A4 /* bottoneipad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bottoneipad@2x.png"; sourceTree = "<group>"; };
+		7A32BE9B18A05E5C00D286A4 /* conicheipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = conicheipad.png; sourceTree = "<group>"; };
+		7A32BE9C18A05E5C00D286A4 /* conicheipad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "conicheipad@2x.png"; sourceTree = "<group>"; };
+		7A32BE9D18A05E5C00D286A4 /* coveripad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = coveripad.png; sourceTree = "<group>"; };
+		7A32BE9E18A05E5C00D286A4 /* coveripad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "coveripad@2x.png"; sourceTree = "<group>"; };
+		7A32BE9F18A05E5C00D286A4 /* formularioipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = formularioipad.png; sourceTree = "<group>"; };
+		7A32BEA018A05E5C00D286A4 /* formularioipad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "formularioipad@2x.png"; sourceTree = "<group>"; };
+		7A32BEA118A05E5C00D286A4 /* glossarioipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = glossarioipad.png; sourceTree = "<group>"; };
+		7A32BEA218A05E5C00D286A4 /* glossarioipad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "glossarioipad@2x.png"; sourceTree = "<group>"; };
+		7A32BEA318A05E5C00D286A4 /* infoipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = infoipad.png; sourceTree = "<group>"; };
+		7A32BEA418A05E5C00D286A4 /* infoipad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "infoipad@2x.png"; sourceTree = "<group>"; };
+		7A32BEA518A05E5C00D286A4 /* linksipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = linksipad.png; sourceTree = "<group>"; };
+		7A32BEA618A05E5C00D286A4 /* linksipad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "linksipad@2x.png"; sourceTree = "<group>"; };
+		7A32BEA718A05E5C00D286A4 /* logoipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logoipad.png; sourceTree = "<group>"; };
+		7A32BEA818A05E5C00D286A4 /* logoipad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logoipad@2x.png"; sourceTree = "<group>"; };
+		7A32BEA918A05E5C00D286A4 /* secondogrado.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = secondogrado.png; sourceTree = "<group>"; };
+		7A32BEAA18A05E5C00D286A4 /* secondogrado@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "secondogrado@2x.png"; sourceTree = "<group>"; };
+		7A32BEAB18A05E5C00D286A4 /* settingsipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = settingsipad.png; sourceTree = "<group>"; };
+		7A32BEAC18A05E5C00D286A4 /* settingsipad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "settingsipad@2x.png"; sourceTree = "<group>"; };
+		7A32BEAD18A05E5C00D286A4 /* sincostanipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sincostanipad.png; sourceTree = "<group>"; };
+		7A32BEAE18A05E5C00D286A4 /* sincostanipad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sincostanipad@2x.png"; sourceTree = "<group>"; };
+		7A32BEAF18A05E5C00D286A4 /* testipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = testipad.png; sourceTree = "<group>"; };
+		7A32BEB018A05E5C00D286A4 /* testipad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "testipad@2x.png"; sourceTree = "<group>"; };
+		7A32BEB118A05E5C00D286A4 /* utilityipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = utilityipad.png; sourceTree = "<group>"; };
+		7A436D55188E888F0063E9E5 /* MainStoryboard_iPad.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
+		7A47EF0717D1795800A36B65 /* CoverApp@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CoverApp@2x.png"; sourceTree = "<group>"; };
+		7A4F01EE189C15DB00AA0CB2 /* Circonferenza_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Circonferenza_Esercizi.pdf; sourceTree = "<group>"; };
+		7A4F01EF189C15DB00AA0CB2 /* Derivate_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Derivate_Esercizi.pdf; sourceTree = "<group>"; };
+		7A4F01F0189C15DB00AA0CB2 /* Ellisse_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Ellisse_Esercizi.pdf; sourceTree = "<group>"; };
+		7A4F01F1189C15DB00AA0CB2 /* Esponenziali_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Esponenziali_Esercizi.pdf; sourceTree = "<group>"; };
+		7A4F01F2189C15DB00AA0CB2 /* Funzioni_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Funzioni_Esercizi.pdf; sourceTree = "<group>"; };
+		7A4F01F3189C15DB00AA0CB2 /* Geometria Analitica nello Spazio_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Geometria Analitica nello Spazio_Esercizi.pdf"; sourceTree = "<group>"; };
+		7A4F01F4189C15DB00AA0CB2 /* Geometria della sfera_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Geometria della sfera_Esercizi.pdf"; sourceTree = "<group>"; };
+		7A4F01F5189C15DB00AA0CB2 /* Geometria Euclidea nello Spazio_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Geometria Euclidea nello Spazio_Esercizi.pdf"; sourceTree = "<group>"; };
+		7A4F01F6189C15DB00AA0CB2 /* Integrali_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Integrali_Esercizi.pdf; sourceTree = "<group>"; };
+		7A4F01F7189C15DB00AA0CB2 /* Iperbole_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Iperbole_Esercizi.pdf; sourceTree = "<group>"; };
+		7A4F01F8189C15DB00AA0CB2 /* Limiti di Funzioni e Continuita _Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Limiti di Funzioni e Continuita _Esercizi.pdf"; sourceTree = "<group>"; };
+		7A4F01F9189C15DB00AA0CB2 /* Limiti di Successioni_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Limiti di Successioni_Esercizi.pdf"; sourceTree = "<group>"; };
+		7A4F01FA189C15DB00AA0CB2 /* Logaritmi_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Logaritmi_Esercizi.pdf; sourceTree = "<group>"; };
+		7A4F01FB189C15DB00AA0CB2 /* Numeri Complessi_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Numeri Complessi_Esercizi.pdf"; sourceTree = "<group>"; };
+		7A4F01FC189C15DB00AA0CB2 /* Parabola_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Parabola_Esercizi.pdf; sourceTree = "<group>"; };
+		7A4F01FD189C15DB00AA0CB2 /* Polinomi_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Polinomi_Esercizi.pdf; sourceTree = "<group>"; };
+		7A4F01FE189C15DB00AA0CB2 /* Retta_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Retta_Esercizi.pdf; sourceTree = "<group>"; };
+		7A4F01FF189C15DB00AA0CB2 /* Strutture algebriche_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Strutture algebriche_Esercizi.pdf"; sourceTree = "<group>"; };
+		7A4F0200189C15DB00AA0CB2 /* Successioni_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Successioni_Esercizi.pdf; sourceTree = "<group>"; };
+		7A4F0201189C15DB00AA0CB2 /* Trasformazioni Geometriche_Esercizi[smallpdf.com].pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Trasformazioni Geometriche_Esercizi[smallpdf.com].pdf"; sourceTree = "<group>"; };
+		7A4F0202189C15DB00AA0CB2 /* Trigonometria_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Trigonometria_Esercizi.pdf; sourceTree = "<group>"; };
+		7A4F0203189C15DB00AA0CB2 /* Vettori_Esercizi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Vettori_Esercizi.pdf; sourceTree = "<group>"; };
+		7A4F021B189C15FA00AA0CB2 /* Circonferenza.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Circonferenza.pdf; sourceTree = "<group>"; };
+		7A4F021C189C15FA00AA0CB2 /* Derivate 1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Derivate 1.pdf"; sourceTree = "<group>"; };
+		7A4F021D189C15FA00AA0CB2 /* Derivate 2.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Derivate 2.pdf"; sourceTree = "<group>"; };
+		7A4F021E189C15FA00AA0CB2 /* Ellisse.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Ellisse.pdf; sourceTree = "<group>"; };
+		7A4F021F189C15FA00AA0CB2 /* Esponenziali e Logaritmi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Esponenziali e Logaritmi.pdf"; sourceTree = "<group>"; };
+		7A4F0220189C15FA00AA0CB2 /* Funzioni 1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Funzioni 1.pdf"; sourceTree = "<group>"; };
+		7A4F0221189C15FA00AA0CB2 /* Funzioni 2.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Funzioni 2.pdf"; sourceTree = "<group>"; };
+		7A4F0222189C15FA00AA0CB2 /* Geometria Analitica nello Spazio.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Geometria Analitica nello Spazio.pdf"; sourceTree = "<group>"; };
+		7A4F0223189C15FA00AA0CB2 /* Geometria della Sfera.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Geometria della Sfera.pdf"; sourceTree = "<group>"; };
+		7A4F0224189C15FA00AA0CB2 /* Geometria Euclidea nello Spazio.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Geometria Euclidea nello Spazio.pdf"; sourceTree = "<group>"; };
+		7A4F0225189C15FA00AA0CB2 /* Integrali.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Integrali.pdf; sourceTree = "<group>"; };
+		7A4F0226189C15FA00AA0CB2 /* Iperbole.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Iperbole.pdf; sourceTree = "<group>"; };
+		7A4F0227189C15FA00AA0CB2 /* Limiti di Funzioni e Continuita  1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Limiti di Funzioni e Continuita  1.pdf"; sourceTree = "<group>"; };
+		7A4F0228189C15FA00AA0CB2 /* Limiti di Funzioni e Continuita  2.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Limiti di Funzioni e Continuita  2.pdf"; sourceTree = "<group>"; };
+		7A4F0229189C15FA00AA0CB2 /* Limiti di Successioni.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Limiti di Successioni.pdf"; sourceTree = "<group>"; };
+		7A4F022A189C15FA00AA0CB2 /* Numeri Complessi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Numeri Complessi.pdf"; sourceTree = "<group>"; };
+		7A4F022B189C15FA00AA0CB2 /* Numeri Naturali.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Numeri Naturali.pdf"; sourceTree = "<group>"; };
+		7A4F022C189C15FA00AA0CB2 /* Parabola.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Parabola.pdf; sourceTree = "<group>"; };
+		7A4F022D189C15FA00AA0CB2 /* Polinomi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Polinomi.pdf; sourceTree = "<group>"; };
+		7A4F022E189C15FA00AA0CB2 /* Retta nel Piano Cartesiano.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Retta nel Piano Cartesiano.pdf"; sourceTree = "<group>"; };
+		7A4F022F189C15FA00AA0CB2 /* Statistica 1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Statistica 1.pdf"; sourceTree = "<group>"; };
+		7A4F0230189C15FA00AA0CB2 /* Statistica 2.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Statistica 2.pdf"; sourceTree = "<group>"; };
+		7A4F0231189C15FA00AA0CB2 /* Statistica 3.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Statistica 3.pdf"; sourceTree = "<group>"; };
+		7A4F0232189C15FA00AA0CB2 /* Strutture Algebriche.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Strutture Algebriche.pdf"; sourceTree = "<group>"; };
+		7A4F0233189C15FA00AA0CB2 /* Successioni.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Successioni.pdf; sourceTree = "<group>"; };
+		7A4F0234189C15FA00AA0CB2 /* Trasformazioni Geometriche del Piano.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Trasformazioni Geometriche del Piano.pdf"; sourceTree = "<group>"; };
+		7A4F0235189C15FA00AA0CB2 /* Trigoniometria 2.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Trigoniometria 2.pdf"; sourceTree = "<group>"; };
+		7A4F0236189C15FA00AA0CB2 /* Trigonometria 1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Trigonometria 1.pdf"; sourceTree = "<group>"; };
+		7A4F0237189C15FA00AA0CB2 /* Vettori.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Vettori.pdf; sourceTree = "<group>"; };
+		7A5230A017E8EE4100F7FD85 /* Tavole goniometriche.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tavole goniometriche.pdf"; sourceTree = "<group>"; };
+		7A5230CC17EA5AD000F7FD85 /* SBConicheViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBConicheViewController.m; sourceTree = "<group>"; };
+		7A5230CE17EA5ADD00F7FD85 /* SBConicheViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBConicheViewController.h; sourceTree = "<group>"; };
+		7A5230CF17EB440400F7FD85 /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
+		7A5B55D9189D674A00E9BF0D /* mat40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mat40.png; sourceTree = "<group>"; };
+		7A5B55DB189D675200E9BF0D /* mat50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mat50.png; sourceTree = "<group>"; };
+		7A5B55DD189D675E00E9BF0D /* mat72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mat72.png; sourceTree = "<group>"; };
+		7A5B55DF189D676700E9BF0D /* mat76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mat76.png; sourceTree = "<group>"; };
+		7A5B55E1189D677100E9BF0D /* mat100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mat100.png; sourceTree = "<group>"; };
+		7A5B55E3189D677F00E9BF0D /* mat144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mat144.png; sourceTree = "<group>"; };
+		7A5B55E5189D678500E9BF0D /* mat152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mat152.png; sourceTree = "<group>"; };
+		7A5B55E7189D678900E9BF0D /* mat1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mat1024.png; sourceTree = "<group>"; };
+		7A5B55E9189D679A00E9BF0D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		7A8A3FF31804372500BF618D /* utility@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "utility@2x.png"; sourceTree = "<group>"; };
+		7A8ECD0F179EA14500D882C7 /* MainStoryboard_iPhone.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
+		7A8ECD13179EA19200D882C7 /* InfoPlist.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = InfoPlist.strings; sourceTree = "<group>"; };
+		7A90838A17D7505800AA36C8 /* argomenti2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = argomenti2.png; sourceTree = "<group>"; };
+		7A90838C17D751F100AA36C8 /* SBTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBTableViewController.h; sourceTree = "<group>"; };
+		7A90838D17D751F100AA36C8 /* SBTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBTableViewController.m; sourceTree = "<group>"; };
+		7A90839117DA720000AA36C8 /* x2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "x2@2x.png"; sourceTree = "<group>"; };
+		7A90839317DA721000AA36C8 /* glossario@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "glossario@2x.png"; sourceTree = "<group>"; };
+		7A90839517DA721A00AA36C8 /* formulario@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "formulario@2x.png"; sourceTree = "<group>"; };
+		7A90839917DA723D00AA36C8 /* test@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "test@2x.png"; sourceTree = "<group>"; };
+		7A90839B17DA751600AA36C8 /* sincostan@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sincostan@2x.png"; sourceTree = "<group>"; };
+		7A9083A317DCC0E000AA36C8 /* SBSecondoGradoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBSecondoGradoViewController.h; sourceTree = "<group>"; };
+		7A9083A417DCC0E100AA36C8 /* SBSecondoGradoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBSecondoGradoViewController.m; sourceTree = "<group>"; };
+		7AA6170F183F9903001EFC33 /* link.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = link.png; sourceTree = "<group>"; };
+		7AA61711183F9909001EFC33 /* link@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "link@2x.png"; sourceTree = "<group>"; };
+		7AA61715183FB4C4001EFC33 /* preferiti@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "preferiti@2x.png"; sourceTree = "<group>"; };
+		7AA61717183FB4E4001EFC33 /* preferiti.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = preferiti.png; sourceTree = "<group>"; };
+		7ABDA0111794547300E17706 /* Pocket Maths.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pocket Maths.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7ABDA0141794547300E17706 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		7ABDA0161794547300E17706 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		7ABDA0181794547300E17706 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		7ABDA01C1794547300E17706 /* Corso di Matematica-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Corso di Matematica-Info.plist"; sourceTree = "<group>"; };
+		7ABDA0201794547300E17706 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		7ABDA0221794547300E17706 /* Corso di Matematica-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Corso di Matematica-Prefix.pch"; sourceTree = "<group>"; };
+		7ABDA0231794547300E17706 /* SBAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SBAppDelegate.h; sourceTree = "<group>"; };
+		7ABDA0241794547300E17706 /* SBAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBAppDelegate.m; sourceTree = "<group>"; };
+		7ABDA0321794547300E17706 /* SBViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SBViewController.h; sourceTree = "<group>"; };
+		7ABDA0331794547300E17706 /* SBViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBViewController.m; sourceTree = "<group>"; };
+		7ABDA03A1794547400E17706 /* Corso di MatematicaTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Corso di MatematicaTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7ABDA03B1794547400E17706 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		7ABDA0431794547400E17706 /* Corso di MatematicaTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Corso di MatematicaTests-Info.plist"; sourceTree = "<group>"; };
+		7ABDA0451794547400E17706 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		7ABDA0471794547400E17706 /* Corso_di_MatematicaTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Corso_di_MatematicaTests.h; sourceTree = "<group>"; };
+		7ABDA0481794547400E17706 /* Corso_di_MatematicaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Corso_di_MatematicaTests.m; sourceTree = "<group>"; };
+		7AD25B4C180471F700CB8F44 /* CoverApp5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CoverApp5@2x.png"; sourceTree = "<group>"; };
+		7AD25B4E1804A95200CB8F44 /* mat58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mat58.png; sourceTree = "<group>"; };
+		7AD25B501804A95D00CB8F44 /* mat80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mat80.png; sourceTree = "<group>"; };
+		7AD25B571804A98B00CB8F44 /* mat120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mat120.png; sourceTree = "<group>"; };
+		7AD25B591804A9EF00CB8F44 /* clock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clock.png; sourceTree = "<group>"; };
+		7AD25B5B1804A9F500CB8F44 /* clock@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "clock@2x.png"; sourceTree = "<group>"; };
+		7AD90AF118A3F9B30006D9A8 /* googleipadmaths.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = googleipadmaths.png; sourceTree = "<group>"; };
+		7AD90AF318A3F9B90006D9A8 /* googleipadmaths@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "googleipadmaths@2x.png"; sourceTree = "<group>"; };
+		7AD90AF518A3F9C10006D9A8 /* twitteripadmaths.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = twitteripadmaths.png; sourceTree = "<group>"; };
+		7AD90AF718A3F9C70006D9A8 /* twitteripadmaths@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "twitteripadmaths@2x.png"; sourceTree = "<group>"; };
+		7AD90AF918A3F9D90006D9A8 /* fbipadmaths.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fbipadmaths.png; sourceTree = "<group>"; };
+		7AD90AFB18A3F9DF0006D9A8 /* fbipadmaths@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fbipadmaths@2x.png"; sourceTree = "<group>"; };
+		7AE220F81803372300AF77AF /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		7AE220FA180355BE00AF77AF /* Bibliografia.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Bibliografia.pdf; sourceTree = "<group>"; };
+		7AE2212D1803623D00AF77AF /* Circonferenza_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Circonferenza_Glossario.pdf; sourceTree = "<group>"; };
+		7AE2212E1803623D00AF77AF /* Combinazione Lineare_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Combinazione Lineare_Glossario.pdf"; sourceTree = "<group>"; };
+		7AE2212F1803623D00AF77AF /* Derivata_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Derivata_Glossario.pdf; sourceTree = "<group>"; };
+		7AE221301803623D00AF77AF /* Ellisse_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Ellisse_Glossario.pdf; sourceTree = "<group>"; };
+		7AE221311803623D00AF77AF /* Funzione di ripartizione_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Funzione di ripartizione_Glossario.pdf"; sourceTree = "<group>"; };
+		7AE221331803623D00AF77AF /* Integrale_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Integrale_Glossario.pdf; sourceTree = "<group>"; };
+		7AE221341803623D00AF77AF /* Iperbole_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Iperbole_Glossario.pdf; sourceTree = "<group>"; };
+		7AE221351803623D00AF77AF /* Limite finito con X tendente a un valore finito_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Limite finito con X tendente a un valore finito_Glossario.pdf"; sourceTree = "<group>"; };
+		7AE221361803623D00AF77AF /* Limite finito di una successione_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Limite finito di una successione_Glossario.pdf"; sourceTree = "<group>"; };
+		7AE221371803623D00AF77AF /* Limite infinito con X tendente a un valore finito_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Limite infinito con X tendente a un valore finito_Glossario.pdf"; sourceTree = "<group>"; };
+		7AE221381803623D00AF77AF /* Limite infinito di una successione_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Limite infinito di una successione_Glossario.pdf"; sourceTree = "<group>"; };
+		7AE221391803623D00AF77AF /* Numeri Complessi_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Numeri Complessi_Glossario.pdf"; sourceTree = "<group>"; };
+		7AE2213A1803623D00AF77AF /* Parabola_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Parabola_Glossario.pdf; sourceTree = "<group>"; };
+		7AE2213B1803623D00AF77AF /* Polinomio_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Polinomio_Glossario.pdf; sourceTree = "<group>"; };
+		7AE2213C1803623D00AF77AF /* Probabilità_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Probabilità_Glossario.pdf"; sourceTree = "<group>"; };
+		7AE2213D1803623D00AF77AF /* Rapporto incrementale_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Rapporto incrementale_Glossario.pdf"; sourceTree = "<group>"; };
+		7AE2213E1803623D00AF77AF /* Retta orientata, Semiretta, Diedro, Triedro_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Retta orientata, Semiretta, Diedro, Triedro_Glossario.pdf"; sourceTree = "<group>"; };
+		7AE2213F1803623D00AF77AF /* Struttura algebrica e gruppo_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Struttura algebrica e gruppo_Glossario.pdf"; sourceTree = "<group>"; };
+		7AE221401803623D00AF77AF /* Successione_Glossario.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Successione_Glossario.pdf; sourceTree = "<group>"; };
+		7AE2D08717F4B6420055D10F /* Ellisse - Iperbole - Trasformazioni geometriche.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Ellisse - Iperbole - Trasformazioni geometriche.pdf"; sourceTree = "<group>"; };
+		7AE2D08817F4B6420055D10F /* Funzioni - Derivate.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Funzioni - Derivate.pdf"; sourceTree = "<group>"; };
+		7AE2D08917F4B6420055D10F /* Funzioni - Goniometria - Trigonometria.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Funzioni - Goniometria - Trigonometria.pdf"; sourceTree = "<group>"; };
+		7AE2D08A17F4B6420055D10F /* Funzioni - Insiemi - Probabilità.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Funzioni - Insiemi - Probabilità.pdf"; sourceTree = "<group>"; };
+		7AE2D08B17F4B6420055D10F /* Funzioni - Logaritmi - Probabilità.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Funzioni - Logaritmi - Probabilità.pdf"; sourceTree = "<group>"; };
+		7AE2D08C17F4B6420055D10F /* Goniometria - Trasformazioni geometriche.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Goniometria - Trasformazioni geometriche.pdf"; sourceTree = "<group>"; };
+		7AE2D08D17F4B6420055D10F /* Integrali - Funzioni.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Integrali - Funzioni.pdf"; sourceTree = "<group>"; };
+		7AE2D08E17F4B6420055D10F /* Iperbole - Ellisse - Goniometria.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Iperbole - Ellisse - Goniometria.pdf"; sourceTree = "<group>"; };
+		7AE2D08F17F4B6420055D10F /* Limiti - Derivate - Funzioni.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Limiti - Derivate - Funzioni.pdf"; sourceTree = "<group>"; };
+		7AE2D09017F4B6420055D10F /* Limiti - Successioni.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Limiti - Successioni.pdf"; sourceTree = "<group>"; };
+		7AE2D09117F4B6420055D10F /* Limiti.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Limiti.pdf; sourceTree = "<group>"; };
+		7AE2D09217F4B6420055D10F /* Logaritmi - Piano nello spazio - Retta nello spazio.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Logaritmi - Piano nello spazio - Retta nello spazio.pdf"; sourceTree = "<group>"; };
+		7AE2D09317F4B6420055D10F /* Numeri complessi - Trasformazioni geometriche - Funzioni.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Numeri complessi - Trasformazioni geometriche - Funzioni.pdf"; sourceTree = "<group>"; };
+		7AE2D09417F4B6420055D10F /* Numeri naturali - Parabola - Circonferenza.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Numeri naturali - Parabola - Circonferenza.pdf"; sourceTree = "<group>"; };
+		7AE2D09517F4B6420055D10F /* Numeri naturali - Retta nel piano.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Numeri naturali - Retta nel piano.pdf"; sourceTree = "<group>"; };
+		7AE2D09617F4B6420055D10F /* Parabola - Ellisse - Circonferenza.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Parabola - Ellisse - Circonferenza.pdf"; sourceTree = "<group>"; };
+		7AE2D09717F4B6420055D10F /* Simulazione Seconda Prova.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Simulazione Seconda Prova.pdf"; sourceTree = "<group>"; };
+		7AE2D09817F4B6420055D10F /* Trasformazioni geometriche - Goniometria.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Trasformazioni geometriche - Goniometria.pdf"; sourceTree = "<group>"; };
+		7AF14B751804AA6D000AC372 /* abc.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = abc.png; sourceTree = "<group>"; };
+		7AF14B771804AA73000AC372 /* abc@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "abc@2x.png"; sourceTree = "<group>"; };
+		7AF14B791804AAA5000AC372 /* facebook@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "facebook@2x.png"; sourceTree = "<group>"; };
+		7AF14B7B1804AAB9000AC372 /* twitter@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "twitter@2x.png"; sourceTree = "<group>"; };
+		7AF2E10E18103BA80035C17E /* logo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo@2x.png"; sourceTree = "<group>"; };
+		7AF2E11018107CE00035C17E /* coniche.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = coniche.png; sourceTree = "<group>"; };
+		7AF2E11218107CE70035C17E /* formulario.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = formulario.png; sourceTree = "<group>"; };
+		7AF2E11418107CEC0035C17E /* glossario.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = glossario.png; sourceTree = "<group>"; };
+		7AF2E11618107CF50035C17E /* sincostan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sincostan.png; sourceTree = "<group>"; };
+		7AF2E11818107CFE0035C17E /* test.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test.png; sourceTree = "<group>"; };
+		7AF2E11A18107D050035C17E /* x2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x2.png; sourceTree = "<group>"; };
+		7AF2E11C18107E670035C17E /* google.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = google.png; sourceTree = "<group>"; };
+		7AF2E11E18107E730035C17E /* google@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "google@2x.png"; sourceTree = "<group>"; };
+		B23D1FBA17FC614F0098A556 /* bottone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bottone.png; sourceTree = "<group>"; };
+		B23D1FBB17FC614F0098A556 /* email.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = email.png; sourceTree = "<group>"; };
+		B23D1FC717FC61850098A556 /* Geometria piana.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Geometria piana.pdf"; path = "Formulario/Geometria piana.pdf"; sourceTree = "<group>"; };
+		B23D1FC817FC61850098A556 /* Geometria solida.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Geometria solida.pdf"; path = "Formulario/Geometria solida.pdf"; sourceTree = "<group>"; };
+		B23D1FC917FC61850098A556 /* Insiemi numerici.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Insiemi numerici.pdf"; path = "Formulario/Insiemi numerici.pdf"; sourceTree = "<group>"; };
+		B23D1FCA17FC61850098A556 /* Insiemi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Insiemi.pdf; path = Formulario/Insiemi.pdf; sourceTree = "<group>"; };
+		B23D1FCB17FC61850098A556 /* Logaritmi.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Logaritmi.pdf; path = Formulario/Logaritmi.pdf; sourceTree = "<group>"; };
+		B23D1FCC17FC61850098A556 /* Logica.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Logica.pdf; path = Formulario/Logica.pdf; sourceTree = "<group>"; };
+		B23D1FCD17FC61850098A556 /* Potenze e radicali.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Potenze e radicali.pdf"; path = "Formulario/Potenze e radicali.pdf"; sourceTree = "<group>"; };
+		B23D1FCE17FC61850098A556 /* Sistemi numerazione.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Sistemi numerazione.pdf"; path = "Formulario/Sistemi numerazione.pdf"; sourceTree = "<group>"; };
+		B23D1FD717FC61A10098A556 /* mat29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mat29.png; path = "Corso di Matematica/mat29.png"; sourceTree = "<group>"; };
+		B23D1FD817FC61A10098A556 /* mat57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mat57.png; path = "Corso di Matematica/mat57.png"; sourceTree = "<group>"; };
+		B23D1FDB17FC61A10098A556 /* mat114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mat114.png; path = "Corso di Matematica/mat114.png"; sourceTree = "<group>"; };
+		B23D1FE317FC61CA0098A556 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Corso di Matematica/Default-568h@2x.png"; sourceTree = "<group>"; };
+		B23D1FE417FC61CA0098A556 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = "Corso di Matematica/Default.png"; sourceTree = "<group>"; };
+		B23D1FE517FC61CA0098A556 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "Corso di Matematica/Default@2x.png"; sourceTree = "<group>"; };
+		B27DD2B917E6451B00FFD3CE /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		B28DBA2817F8CC1A00597F37 /* bibliografia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bibliografia.png; sourceTree = "<group>"; };
+		B28DBA2917F8CC1A00597F37 /* bottone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bottone.png; sourceTree = "<group>"; };
+		B28DBA2C17F8CC1A00597F37 /* coniche@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "coniche@2x.png"; sourceTree = "<group>"; };
+		B28DBA3517F8CC1A00597F37 /* utility.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = utility.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7ABDA00E1794547300E17706 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7AE220F91803372300AF77AF /* MessageUI.framework in Frameworks */,
+				7A5230D017EB440500F7FD85 /* Social.framework in Frameworks */,
+				7ABDA0151794547300E17706 /* UIKit.framework in Frameworks */,
+				7ABDA0171794547300E17706 /* Foundation.framework in Frameworks */,
+				7ABDA0191794547300E17706 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7ABDA0361794547400E17706 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7ABDA03C1794547400E17706 /* SenTestingKit.framework in Frameworks */,
+				7ABDA03D1794547400E17706 /* UIKit.framework in Frameworks */,
+				7ABDA03E1794547400E17706 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7A32BE9818A05E5C00D286A4 /* Immagini iPad */ = {
+			isa = PBXGroup;
+			children = (
+				7AD90AF118A3F9B30006D9A8 /* googleipadmaths.png */,
+				7AD90AF318A3F9B90006D9A8 /* googleipadmaths@2x.png */,
+				7AD90AF518A3F9C10006D9A8 /* twitteripadmaths.png */,
+				7AD90AF718A3F9C70006D9A8 /* twitteripadmaths@2x.png */,
+				7AD90AF918A3F9D90006D9A8 /* fbipadmaths.png */,
+				7AD90AFB18A3F9DF0006D9A8 /* fbipadmaths@2x.png */,
+				7A32BE9918A05E5C00D286A4 /* bottoneipad.png */,
+				7A32BE9A18A05E5C00D286A4 /* bottoneipad@2x.png */,
+				7A32BE9B18A05E5C00D286A4 /* conicheipad.png */,
+				7A32BE9C18A05E5C00D286A4 /* conicheipad@2x.png */,
+				7A32BE9D18A05E5C00D286A4 /* coveripad.png */,
+				7A32BE9E18A05E5C00D286A4 /* coveripad@2x.png */,
+				7A32BE9F18A05E5C00D286A4 /* formularioipad.png */,
+				7A32BEA018A05E5C00D286A4 /* formularioipad@2x.png */,
+				7A32BEA118A05E5C00D286A4 /* glossarioipad.png */,
+				7A32BEA218A05E5C00D286A4 /* glossarioipad@2x.png */,
+				7A32BEA318A05E5C00D286A4 /* infoipad.png */,
+				7A32BEA418A05E5C00D286A4 /* infoipad@2x.png */,
+				7A32BEA518A05E5C00D286A4 /* linksipad.png */,
+				7A32BEA618A05E5C00D286A4 /* linksipad@2x.png */,
+				7A32BEA718A05E5C00D286A4 /* logoipad.png */,
+				7A32BEA818A05E5C00D286A4 /* logoipad@2x.png */,
+				7A32BEA918A05E5C00D286A4 /* secondogrado.png */,
+				7A32BEAA18A05E5C00D286A4 /* secondogrado@2x.png */,
+				7A32BEAB18A05E5C00D286A4 /* settingsipad.png */,
+				7A32BEAC18A05E5C00D286A4 /* settingsipad@2x.png */,
+				7A32BEAD18A05E5C00D286A4 /* sincostanipad.png */,
+				7A32BEAE18A05E5C00D286A4 /* sincostanipad@2x.png */,
+				7A32BEAF18A05E5C00D286A4 /* testipad.png */,
+				7A32BEB018A05E5C00D286A4 /* testipad@2x.png */,
+				7A32BEB118A05E5C00D286A4 /* utilityipad.png */,
+			);
+			path = "Immagini iPad";
+			sourceTree = "<group>";
+		};
+		7A47EF0517D1795800A36B65 /* Immagini */ = {
+			isa = PBXGroup;
+			children = (
+				7A90838A17D7505800AA36C8 /* argomenti2.png */,
+				7AF2E11C18107E670035C17E /* google.png */,
+				7AF2E11E18107E730035C17E /* google@2x.png */,
+				B23D1FBA17FC614F0098A556 /* bottone.png */,
+				7A47EF0717D1795800A36B65 /* CoverApp@2x.png */,
+				7AD25B4C180471F700CB8F44 /* CoverApp5@2x.png */,
+				7AF14B771804AA73000AC372 /* abc@2x.png */,
+				7AF14B751804AA6D000AC372 /* abc.png */,
+				B23D1FBB17FC614F0098A556 /* email.png */,
+				7AF14B7B1804AAB9000AC372 /* twitter@2x.png */,
+				7AF14B791804AAA5000AC372 /* facebook@2x.png */,
+				7AF2E11A18107D050035C17E /* x2.png */,
+				7AF2E11618107CF50035C17E /* sincostan.png */,
+				7AF2E10E18103BA80035C17E /* logo@2x.png */,
+				7AD25B5B1804A9F500CB8F44 /* clock@2x.png */,
+				7AF2E11418107CEC0035C17E /* glossario.png */,
+				7AA61711183F9909001EFC33 /* link@2x.png */,
+				7AF2E11818107CFE0035C17E /* test.png */,
+				7AD25B591804A9EF00CB8F44 /* clock.png */,
+				7AA6170F183F9903001EFC33 /* link.png */,
+				B28DBA2817F8CC1A00597F37 /* bibliografia.png */,
+				7AA61717183FB4E4001EFC33 /* preferiti.png */,
+				7AA61715183FB4C4001EFC33 /* preferiti@2x.png */,
+				B28DBA2917F8CC1A00597F37 /* bottone.png */,
+				7AF2E11218107CE70035C17E /* formulario.png */,
+				7AF2E11018107CE00035C17E /* coniche.png */,
+				B28DBA2C17F8CC1A00597F37 /* coniche@2x.png */,
+				B28DBA3517F8CC1A00597F37 /* utility.png */,
+				7A8A3FF31804372500BF618D /* utility@2x.png */,
+				B27DD2B917E6451B00FFD3CE /* logo.png */,
+				7A90839517DA721A00AA36C8 /* formulario@2x.png */,
+				7A90839317DA721000AA36C8 /* glossario@2x.png */,
+				7A90839B17DA751600AA36C8 /* sincostan@2x.png */,
+				7A90839917DA723D00AA36C8 /* test@2x.png */,
+				7A90839117DA720000AA36C8 /* x2@2x.png */,
+			);
+			path = Immagini;
+			sourceTree = "<group>";
+		};
+		7A4F01ED189C15DB00AA0CB2 /* Esercizi Compressi */ = {
+			isa = PBXGroup;
+			children = (
+				7A4F01EE189C15DB00AA0CB2 /* Circonferenza_Esercizi.pdf */,
+				7A4F01EF189C15DB00AA0CB2 /* Derivate_Esercizi.pdf */,
+				7A4F01F0189C15DB00AA0CB2 /* Ellisse_Esercizi.pdf */,
+				7A4F01F1189C15DB00AA0CB2 /* Esponenziali_Esercizi.pdf */,
+				7A4F01F2189C15DB00AA0CB2 /* Funzioni_Esercizi.pdf */,
+				7A4F01F3189C15DB00AA0CB2 /* Geometria Analitica nello Spazio_Esercizi.pdf */,
+				7A4F01F4189C15DB00AA0CB2 /* Geometria della sfera_Esercizi.pdf */,
+				7A4F01F5189C15DB00AA0CB2 /* Geometria Euclidea nello Spazio_Esercizi.pdf */,
+				7A4F01F6189C15DB00AA0CB2 /* Integrali_Esercizi.pdf */,
+				7A4F01F7189C15DB00AA0CB2 /* Iperbole_Esercizi.pdf */,
+				7A4F01F8189C15DB00AA0CB2 /* Limiti di Funzioni e Continuita _Esercizi.pdf */,
+				7A4F01F9189C15DB00AA0CB2 /* Limiti di Successioni_Esercizi.pdf */,
+				7A4F01FA189C15DB00AA0CB2 /* Logaritmi_Esercizi.pdf */,
+				7A4F01FB189C15DB00AA0CB2 /* Numeri Complessi_Esercizi.pdf */,
+				7A4F01FC189C15DB00AA0CB2 /* Parabola_Esercizi.pdf */,
+				7A4F01FD189C15DB00AA0CB2 /* Polinomi_Esercizi.pdf */,
+				7A4F01FE189C15DB00AA0CB2 /* Retta_Esercizi.pdf */,
+				7A4F01FF189C15DB00AA0CB2 /* Strutture algebriche_Esercizi.pdf */,
+				7A4F0200189C15DB00AA0CB2 /* Successioni_Esercizi.pdf */,
+				7A4F0201189C15DB00AA0CB2 /* Trasformazioni Geometriche_Esercizi[smallpdf.com].pdf */,
+				7A4F0202189C15DB00AA0CB2 /* Trigonometria_Esercizi.pdf */,
+				7A4F0203189C15DB00AA0CB2 /* Vettori_Esercizi.pdf */,
+			);
+			name = "Esercizi Compressi";
+			path = "Glossario/Esercizi Compressi";
+			sourceTree = "<group>";
+		};
+		7A4F021A189C15FA00AA0CB2 /* Dispense Compresse */ = {
+			isa = PBXGroup;
+			children = (
+				7A4F021B189C15FA00AA0CB2 /* Circonferenza.pdf */,
+				7A4F021C189C15FA00AA0CB2 /* Derivate 1.pdf */,
+				7A4F021D189C15FA00AA0CB2 /* Derivate 2.pdf */,
+				7A4F021E189C15FA00AA0CB2 /* Ellisse.pdf */,
+				7A4F021F189C15FA00AA0CB2 /* Esponenziali e Logaritmi.pdf */,
+				7A4F0220189C15FA00AA0CB2 /* Funzioni 1.pdf */,
+				7A4F0221189C15FA00AA0CB2 /* Funzioni 2.pdf */,
+				7A4F0222189C15FA00AA0CB2 /* Geometria Analitica nello Spazio.pdf */,
+				7A4F0223189C15FA00AA0CB2 /* Geometria della Sfera.pdf */,
+				7A4F0224189C15FA00AA0CB2 /* Geometria Euclidea nello Spazio.pdf */,
+				7A4F0225189C15FA00AA0CB2 /* Integrali.pdf */,
+				7A4F0226189C15FA00AA0CB2 /* Iperbole.pdf */,
+				7A4F0227189C15FA00AA0CB2 /* Limiti di Funzioni e Continuita  1.pdf */,
+				7A4F0228189C15FA00AA0CB2 /* Limiti di Funzioni e Continuita  2.pdf */,
+				7A4F0229189C15FA00AA0CB2 /* Limiti di Successioni.pdf */,
+				7A4F022A189C15FA00AA0CB2 /* Numeri Complessi.pdf */,
+				7A4F022B189C15FA00AA0CB2 /* Numeri Naturali.pdf */,
+				7A4F022C189C15FA00AA0CB2 /* Parabola.pdf */,
+				7A4F022D189C15FA00AA0CB2 /* Polinomi.pdf */,
+				7A4F022E189C15FA00AA0CB2 /* Retta nel Piano Cartesiano.pdf */,
+				7A4F022F189C15FA00AA0CB2 /* Statistica 1.pdf */,
+				7A4F0230189C15FA00AA0CB2 /* Statistica 2.pdf */,
+				7A4F0231189C15FA00AA0CB2 /* Statistica 3.pdf */,
+				7A4F0232189C15FA00AA0CB2 /* Strutture Algebriche.pdf */,
+				7A4F0233189C15FA00AA0CB2 /* Successioni.pdf */,
+				7A4F0234189C15FA00AA0CB2 /* Trasformazioni Geometriche del Piano.pdf */,
+				7A4F0235189C15FA00AA0CB2 /* Trigoniometria 2.pdf */,
+				7A4F0236189C15FA00AA0CB2 /* Trigonometria 1.pdf */,
+				7A4F0237189C15FA00AA0CB2 /* Vettori.pdf */,
+			);
+			path = "Dispense Compresse";
+			sourceTree = "<group>";
+		};
+		7ABDA0081794547300E17706 = {
+			isa = PBXGroup;
+			children = (
+				B23D1FE317FC61CA0098A556 /* Default-568h@2x.png */,
+				B23D1FE417FC61CA0098A556 /* Default.png */,
+				B23D1FE517FC61CA0098A556 /* Default@2x.png */,
+				B23D1FD717FC61A10098A556 /* mat29.png */,
+				7A5B55D9189D674A00E9BF0D /* mat40.png */,
+				7A5B55DB189D675200E9BF0D /* mat50.png */,
+				B23D1FD817FC61A10098A556 /* mat57.png */,
+				7AD25B4E1804A95200CB8F44 /* mat58.png */,
+				7A5B55DD189D675E00E9BF0D /* mat72.png */,
+				7A5B55DF189D676700E9BF0D /* mat76.png */,
+				7AD25B501804A95D00CB8F44 /* mat80.png */,
+				7A5B55E1189D677100E9BF0D /* mat100.png */,
+				B23D1FDB17FC61A10098A556 /* mat114.png */,
+				7AD25B571804A98B00CB8F44 /* mat120.png */,
+				7A5B55E3189D677F00E9BF0D /* mat144.png */,
+				7A5B55E5189D678500E9BF0D /* mat152.png */,
+				7A5B55E7189D678900E9BF0D /* mat1024.png */,
+				7ABDA01A1794547300E17706 /* Corso di Matematica */,
+				7ABDA0411794547400E17706 /* Corso di MatematicaTests */,
+				7ABDA0131794547300E17706 /* Frameworks */,
+				7ABDA0121794547300E17706 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7ABDA0121794547300E17706 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7ABDA0111794547300E17706 /* Pocket Maths.app */,
+				7ABDA03A1794547400E17706 /* Corso di MatematicaTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7ABDA0131794547300E17706 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7AE220F81803372300AF77AF /* MessageUI.framework */,
+				7A5230CF17EB440400F7FD85 /* Social.framework */,
+				7ABDA0141794547300E17706 /* UIKit.framework */,
+				7ABDA0161794547300E17706 /* Foundation.framework */,
+				7ABDA0181794547300E17706 /* CoreGraphics.framework */,
+				7ABDA03B1794547400E17706 /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7ABDA01A1794547300E17706 /* Corso di Matematica */ = {
+			isa = PBXGroup;
+			children = (
+				7A8ECD0F179EA14500D882C7 /* MainStoryboard_iPhone.storyboard */,
+				7A436D55188E888F0063E9E5 /* MainStoryboard_iPad.storyboard */,
+				7ABDA0321794547300E17706 /* SBViewController.h */,
+				7ABDA0331794547300E17706 /* SBViewController.m */,
+				7A205349189ABF8800F7014F /* SBNavigationController.h */,
+				7A20534A189ABF8800F7014F /* SBNavigationController.m */,
+				7A9083A317DCC0E000AA36C8 /* SBSecondoGradoViewController.h */,
+				7A9083A417DCC0E100AA36C8 /* SBSecondoGradoViewController.m */,
+				7A90838C17D751F100AA36C8 /* SBTableViewController.h */,
+				7A90838D17D751F100AA36C8 /* SBTableViewController.m */,
+				7ABDA0231794547300E17706 /* SBAppDelegate.h */,
+				7ABDA0241794547300E17706 /* SBAppDelegate.m */,
+				7A5230CE17EA5ADD00F7FD85 /* SBConicheViewController.h */,
+				7A5230CC17EA5AD000F7FD85 /* SBConicheViewController.m */,
+				7A5B55E9189D679A00E9BF0D /* Images.xcassets */,
+				7ABDA01B1794547300E17706 /* Supporting Files */,
+			);
+			path = "Corso di Matematica";
+			sourceTree = "<group>";
+		};
+		7ABDA01B1794547300E17706 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7A5230A017E8EE4100F7FD85 /* Tavole goniometriche.pdf */,
+				7AE220FA180355BE00AF77AF /* Bibliografia.pdf */,
+				7A32BE9818A05E5C00D286A4 /* Immagini iPad */,
+				7A4F021A189C15FA00AA0CB2 /* Dispense Compresse */,
+				7A4F01ED189C15DB00AA0CB2 /* Esercizi Compressi */,
+				7AE2212C1803623D00AF77AF /* Glossario */,
+				B23D1FC617FC61670098A556 /* Formulario */,
+				7AE2D08617F4B6420055D10F /* Compiti */,
+				7A47EF0517D1795800A36B65 /* Immagini */,
+				7ABDA01C1794547300E17706 /* Corso di Matematica-Info.plist */,
+				7A8ECD13179EA19200D882C7 /* InfoPlist.strings */,
+				7ABDA0201794547300E17706 /* main.m */,
+				7ABDA0221794547300E17706 /* Corso di Matematica-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		7ABDA0411794547400E17706 /* Corso di MatematicaTests */ = {
+			isa = PBXGroup;
+			children = (
+				7ABDA0471794547400E17706 /* Corso_di_MatematicaTests.h */,
+				7ABDA0481794547400E17706 /* Corso_di_MatematicaTests.m */,
+				7ABDA0421794547400E17706 /* Supporting Files */,
+			);
+			path = "Corso di MatematicaTests";
+			sourceTree = "<group>";
+		};
+		7ABDA0421794547400E17706 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7ABDA0431794547400E17706 /* Corso di MatematicaTests-Info.plist */,
+				7ABDA0441794547400E17706 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		7AE2212C1803623D00AF77AF /* Glossario */ = {
+			isa = PBXGroup;
+			children = (
+				7AE2212D1803623D00AF77AF /* Circonferenza_Glossario.pdf */,
+				7AE2212E1803623D00AF77AF /* Combinazione Lineare_Glossario.pdf */,
+				7AE2212F1803623D00AF77AF /* Derivata_Glossario.pdf */,
+				7AE221301803623D00AF77AF /* Ellisse_Glossario.pdf */,
+				7AE221311803623D00AF77AF /* Funzione di ripartizione_Glossario.pdf */,
+				7AE221331803623D00AF77AF /* Integrale_Glossario.pdf */,
+				7AE221341803623D00AF77AF /* Iperbole_Glossario.pdf */,
+				7AE221351803623D00AF77AF /* Limite finito con X tendente a un valore finito_Glossario.pdf */,
+				7AE221361803623D00AF77AF /* Limite finito di una successione_Glossario.pdf */,
+				7AE221371803623D00AF77AF /* Limite infinito con X tendente a un valore finito_Glossario.pdf */,
+				7AE221381803623D00AF77AF /* Limite infinito di una successione_Glossario.pdf */,
+				7AE221391803623D00AF77AF /* Numeri Complessi_Glossario.pdf */,
+				7AE2213A1803623D00AF77AF /* Parabola_Glossario.pdf */,
+				7AE2213B1803623D00AF77AF /* Polinomio_Glossario.pdf */,
+				7AE2213C1803623D00AF77AF /* Probabilità_Glossario.pdf */,
+				7AE2213D1803623D00AF77AF /* Rapporto incrementale_Glossario.pdf */,
+				7AE2213E1803623D00AF77AF /* Retta orientata, Semiretta, Diedro, Triedro_Glossario.pdf */,
+				7AE2213F1803623D00AF77AF /* Struttura algebrica e gruppo_Glossario.pdf */,
+				7AE221401803623D00AF77AF /* Successione_Glossario.pdf */,
+			);
+			path = Glossario;
+			sourceTree = "<group>";
+		};
+		7AE2D08617F4B6420055D10F /* Compiti */ = {
+			isa = PBXGroup;
+			children = (
+				7AE2D08717F4B6420055D10F /* Ellisse - Iperbole - Trasformazioni geometriche.pdf */,
+				7AE2D08817F4B6420055D10F /* Funzioni - Derivate.pdf */,
+				7AE2D08917F4B6420055D10F /* Funzioni - Goniometria - Trigonometria.pdf */,
+				7AE2D08A17F4B6420055D10F /* Funzioni - Insiemi - Probabilità.pdf */,
+				7AE2D08B17F4B6420055D10F /* Funzioni - Logaritmi - Probabilità.pdf */,
+				7AE2D08C17F4B6420055D10F /* Goniometria - Trasformazioni geometriche.pdf */,
+				7AE2D08D17F4B6420055D10F /* Integrali - Funzioni.pdf */,
+				7AE2D08E17F4B6420055D10F /* Iperbole - Ellisse - Goniometria.pdf */,
+				7AE2D08F17F4B6420055D10F /* Limiti - Derivate - Funzioni.pdf */,
+				7AE2D09017F4B6420055D10F /* Limiti - Successioni.pdf */,
+				7AE2D09117F4B6420055D10F /* Limiti.pdf */,
+				7AE2D09217F4B6420055D10F /* Logaritmi - Piano nello spazio - Retta nello spazio.pdf */,
+				7AE2D09317F4B6420055D10F /* Numeri complessi - Trasformazioni geometriche - Funzioni.pdf */,
+				7AE2D09417F4B6420055D10F /* Numeri naturali - Parabola - Circonferenza.pdf */,
+				7AE2D09517F4B6420055D10F /* Numeri naturali - Retta nel piano.pdf */,
+				7AE2D09617F4B6420055D10F /* Parabola - Ellisse - Circonferenza.pdf */,
+				7AE2D09717F4B6420055D10F /* Simulazione Seconda Prova.pdf */,
+				7AE2D09817F4B6420055D10F /* Trasformazioni geometriche - Goniometria.pdf */,
+			);
+			path = Compiti;
+			sourceTree = "<group>";
+		};
+		B23D1FC617FC61670098A556 /* Formulario */ = {
+			isa = PBXGroup;
+			children = (
+				B23D1FC717FC61850098A556 /* Geometria piana.pdf */,
+				B23D1FC817FC61850098A556 /* Geometria solida.pdf */,
+				B23D1FC917FC61850098A556 /* Insiemi numerici.pdf */,
+				B23D1FCA17FC61850098A556 /* Insiemi.pdf */,
+				B23D1FCB17FC61850098A556 /* Logaritmi.pdf */,
+				B23D1FCC17FC61850098A556 /* Logica.pdf */,
+				B23D1FCD17FC61850098A556 /* Potenze e radicali.pdf */,
+				B23D1FCE17FC61850098A556 /* Sistemi numerazione.pdf */,
+			);
+			name = Formulario;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7ABDA0101794547300E17706 /* Corso di Matematica */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7ABDA04C1794547400E17706 /* Build configuration list for PBXNativeTarget "Corso di Matematica" */;
+			buildPhases = (
+				7ABDA00D1794547300E17706 /* Sources */,
+				7ABDA00E1794547300E17706 /* Frameworks */,
+				7ABDA00F1794547300E17706 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Corso di Matematica";
+			productName = "Corso di Matematica";
+			productReference = 7ABDA0111794547300E17706 /* Pocket Maths.app */;
+			productType = "com.apple.product-type.application";
+		};
+		7ABDA0391794547400E17706 /* Corso di MatematicaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7ABDA04F1794547400E17706 /* Build configuration list for PBXNativeTarget "Corso di MatematicaTests" */;
+			buildPhases = (
+				7ABDA0351794547400E17706 /* Sources */,
+				7ABDA0361794547400E17706 /* Frameworks */,
+				7ABDA0371794547400E17706 /* Resources */,
+				7ABDA0381794547400E17706 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7ABDA0401794547400E17706 /* PBXTargetDependency */,
+			);
+			name = "Corso di MatematicaTests";
+			productName = "Corso di MatematicaTests";
+			productReference = 7ABDA03A1794547400E17706 /* Corso di MatematicaTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7ABDA0091794547300E17706 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = SB;
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = "SB AppStudios";
+				TargetAttributes = {
+					7ABDA0101794547300E17706 = {
+						DevelopmentTeam = X6XZQV2VJL;
+					};
+				};
+			};
+			buildConfigurationList = 7ABDA00C1794547300E17706 /* Build configuration list for PBXProject "Pocket Maths" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7ABDA0081794547300E17706;
+			productRefGroup = 7ABDA0121794547300E17706 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7ABDA0101794547300E17706 /* Corso di Matematica */,
+				7ABDA0391794547400E17706 /* Corso di MatematicaTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7ABDA00F1794547300E17706 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7A4F0212189C15DB00AA0CB2 /* Parabola_Esercizi.pdf in Resources */,
+				7A4F0218189C15DB00AA0CB2 /* Trigonometria_Esercizi.pdf in Resources */,
+				7A4F0208189C15DB00AA0CB2 /* Funzioni_Esercizi.pdf in Resources */,
+				7A8ECD10179EA14500D882C7 /* MainStoryboard_iPhone.storyboard in Resources */,
+				7A32BEC618A05E5C00D286A4 /* sincostanipad.png in Resources */,
+				7A32BEC718A05E5C00D286A4 /* sincostanipad@2x.png in Resources */,
+				7A4F023C189C15FA00AA0CB2 /* Esponenziali e Logaritmi.pdf in Resources */,
+				7A8ECD14179EA19200D882C7 /* InfoPlist.strings in Resources */,
+				7A4F0211189C15DB00AA0CB2 /* Numeri Complessi_Esercizi.pdf in Resources */,
+				7A32BEBC18A05E5C00D286A4 /* infoipad.png in Resources */,
+				7AE221411803623D00AF77AF /* Circonferenza_Glossario.pdf in Resources */,
+				B28DBA4517F8CC1A00597F37 /* utility.png in Resources */,
+				B23D1FCF17FC61850098A556 /* Geometria piana.pdf in Resources */,
+				7A4F0247189C15FB00AA0CB2 /* Numeri Complessi.pdf in Resources */,
+				7A4F0241189C15FA00AA0CB2 /* Geometria Euclidea nello Spazio.pdf in Resources */,
+				B23D1FE717FC61CA0098A556 /* Default.png in Resources */,
+				7AA61718183FB4E4001EFC33 /* preferiti.png in Resources */,
+				B23D1FD117FC61850098A556 /* Insiemi numerici.pdf in Resources */,
+				B23D1FD617FC61850098A556 /* Sistemi numerazione.pdf in Resources */,
+				B23D1FD317FC61850098A556 /* Logaritmi.pdf in Resources */,
+				7A5B55E8189D678A00E9BF0D /* mat1024.png in Resources */,
+				B23D1FE817FC61CA0098A556 /* Default@2x.png in Resources */,
+				7A32BEC518A05E5C00D286A4 /* settingsipad@2x.png in Resources */,
+				7AD25B4F1804A95200CB8F44 /* mat58.png in Resources */,
+				7A4F0246189C15FB00AA0CB2 /* Limiti di Successioni.pdf in Resources */,
+				7A5B55E6189D678500E9BF0D /* mat152.png in Resources */,
+				7AD90AF618A3F9C10006D9A8 /* twitteripadmaths.png in Resources */,
+				B23D1FD417FC61850098A556 /* Logica.pdf in Resources */,
+				7AE221511803623D00AF77AF /* Rapporto incrementale_Glossario.pdf in Resources */,
+				7A4F0242189C15FA00AA0CB2 /* Integrali.pdf in Resources */,
+				7A4F0238189C15FA00AA0CB2 /* Circonferenza.pdf in Resources */,
+				B23D1FC117FC614F0098A556 /* bottone.png in Resources */,
+				7AE221431803623D00AF77AF /* Derivata_Glossario.pdf in Resources */,
+				7AE2214D1803623D00AF77AF /* Numeri Complessi_Glossario.pdf in Resources */,
+				7AD90AF818A3F9C70006D9A8 /* twitteripadmaths@2x.png in Resources */,
+				7AE221441803623D00AF77AF /* Ellisse_Glossario.pdf in Resources */,
+				7A32BEC218A05E5C00D286A4 /* secondogrado.png in Resources */,
+				7AE221481803623D00AF77AF /* Iperbole_Glossario.pdf in Resources */,
+				7A4F0209189C15DB00AA0CB2 /* Geometria Analitica nello Spazio_Esercizi.pdf in Resources */,
+				7A4F023E189C15FA00AA0CB2 /* Funzioni 2.pdf in Resources */,
+				7A47EF0F17D1795800A36B65 /* CoverApp@2x.png in Resources */,
+				7AF2E11118107CE00035C17E /* coniche.png in Resources */,
+				7A4F020F189C15DB00AA0CB2 /* Limiti di Successioni_Esercizi.pdf in Resources */,
+				7A5B55EA189D679A00E9BF0D /* Images.xcassets in Resources */,
+				7AF2E11D18107E670035C17E /* google.png in Resources */,
+				B23D1FC217FC614F0098A556 /* email.png in Resources */,
+				7AF14B7A1804AAA5000AC372 /* facebook@2x.png in Resources */,
+				7AF14B761804AA6D000AC372 /* abc.png in Resources */,
+				7A32BECA18A05E5C00D286A4 /* utilityipad.png in Resources */,
+				7A90838B17D7505800AA36C8 /* argomenti2.png in Resources */,
+				7A4F0250189C15FB00AA0CB2 /* Successioni.pdf in Resources */,
+				7A90839217DA720000AA36C8 /* x2@2x.png in Resources */,
+				7A90839417DA721000AA36C8 /* glossario@2x.png in Resources */,
+				7A4F023F189C15FA00AA0CB2 /* Geometria Analitica nello Spazio.pdf in Resources */,
+				7AD25B581804A98B00CB8F44 /* mat120.png in Resources */,
+				7A4F0239189C15FA00AA0CB2 /* Derivate 1.pdf in Resources */,
+				7A90839617DA721A00AA36C8 /* formulario@2x.png in Resources */,
+				7A32BEB218A05E5C00D286A4 /* bottoneipad.png in Resources */,
+				7A32BEBD18A05E5C00D286A4 /* infoipad@2x.png in Resources */,
+				7A4F0245189C15FB00AA0CB2 /* Limiti di Funzioni e Continuita  2.pdf in Resources */,
+				7AE2214E1803623D00AF77AF /* Parabola_Glossario.pdf in Resources */,
+				7AF2E11918107CFE0035C17E /* test.png in Resources */,
+				7A90839A17DA723D00AA36C8 /* test@2x.png in Resources */,
+				7A32BEC118A05E5C00D286A4 /* logoipad@2x.png in Resources */,
+				7A4F020C189C15DB00AA0CB2 /* Integrali_Esercizi.pdf in Resources */,
+				7A4F023A189C15FA00AA0CB2 /* Derivate 2.pdf in Resources */,
+				7A90839C17DA751600AA36C8 /* sincostan@2x.png in Resources */,
+				7AE221521803623D00AF77AF /* Retta orientata, Semiretta, Diedro, Triedro_Glossario.pdf in Resources */,
+				B23D1FDE17FC61A10098A556 /* mat57.png in Resources */,
+				7AA61712183F9909001EFC33 /* link@2x.png in Resources */,
+				7A4F020B189C15DB00AA0CB2 /* Geometria Euclidea nello Spazio_Esercizi.pdf in Resources */,
+				B28DBA3817F8CC1A00597F37 /* bibliografia.png in Resources */,
+				7A4F024A189C15FB00AA0CB2 /* Polinomi.pdf in Resources */,
+				7A4F024E189C15FB00AA0CB2 /* Statistica 3.pdf in Resources */,
+				7AE2214F1803623D00AF77AF /* Polinomio_Glossario.pdf in Resources */,
+				B27DD2BA17E6451B00FFD3CE /* logo.png in Resources */,
+				7AD25B4D180471F700CB8F44 /* CoverApp5@2x.png in Resources */,
+				7A4F020A189C15DB00AA0CB2 /* Geometria della sfera_Esercizi.pdf in Resources */,
+				7AE2214B1803623D00AF77AF /* Limite infinito con X tendente a un valore finito_Glossario.pdf in Resources */,
+				7AD90AF418A3F9B90006D9A8 /* googleipadmaths@2x.png in Resources */,
+				7A5B55DE189D675E00E9BF0D /* mat72.png in Resources */,
+				7A5230A117E8EE4100F7FD85 /* Tavole goniometriche.pdf in Resources */,
+				B23D1FE617FC61CA0098A556 /* Default-568h@2x.png in Resources */,
+				7A4F0244189C15FB00AA0CB2 /* Limiti di Funzioni e Continuita  1.pdf in Resources */,
+				7AF2E10F18103BA80035C17E /* logo@2x.png in Resources */,
+				7A32BEB718A05E5C00D286A4 /* coveripad@2x.png in Resources */,
+				7A5B55E2189D677100E9BF0D /* mat100.png in Resources */,
+				7A32BEC418A05E5C00D286A4 /* settingsipad.png in Resources */,
+				7AF2E11318107CE70035C17E /* formulario.png in Resources */,
+				7A32BEB918A05E5C00D286A4 /* formularioipad@2x.png in Resources */,
+				B23D1FD017FC61850098A556 /* Geometria solida.pdf in Resources */,
+				7AD25B5C1804A9F500CB8F44 /* clock@2x.png in Resources */,
+				7A4F024F189C15FB00AA0CB2 /* Strutture Algebriche.pdf in Resources */,
+				7AA61716183FB4C4001EFC33 /* preferiti@2x.png in Resources */,
+				7AF2E11718107CF50035C17E /* sincostan.png in Resources */,
+				7AF14B781804AA73000AC372 /* abc@2x.png in Resources */,
+				7AF2E11F18107E730035C17E /* google@2x.png in Resources */,
+				7A32BEB418A05E5C00D286A4 /* conicheipad.png in Resources */,
+				7A4F0240189C15FA00AA0CB2 /* Geometria della Sfera.pdf in Resources */,
+				7AE2D09A17F4B6420055D10F /* Ellisse - Iperbole - Trasformazioni geometriche.pdf in Resources */,
+				7AE2D09B17F4B6420055D10F /* Funzioni - Derivate.pdf in Resources */,
+				7A4F0205189C15DB00AA0CB2 /* Derivate_Esercizi.pdf in Resources */,
+				7A5B55DC189D675200E9BF0D /* mat50.png in Resources */,
+				7AD90AF218A3F9B30006D9A8 /* googleipadmaths.png in Resources */,
+				7A32BEBE18A05E5C00D286A4 /* linksipad.png in Resources */,
+				7A32BEBA18A05E5C00D286A4 /* glossarioipad.png in Resources */,
+				7AE2D09C17F4B6420055D10F /* Funzioni - Goniometria - Trigonometria.pdf in Resources */,
+				7A436D56188E888F0063E9E5 /* MainStoryboard_iPad.storyboard in Resources */,
+				B23D1FDD17FC61A10098A556 /* mat29.png in Resources */,
+				7AD25B5A1804A9EF00CB8F44 /* clock.png in Resources */,
+				7AE2D09D17F4B6420055D10F /* Funzioni - Insiemi - Probabilità.pdf in Resources */,
+				7A32BEB518A05E5C00D286A4 /* conicheipad@2x.png in Resources */,
+				7A32BEC318A05E5C00D286A4 /* secondogrado@2x.png in Resources */,
+				7AE2D09E17F4B6420055D10F /* Funzioni - Logaritmi - Probabilità.pdf in Resources */,
+				7AD25B511804A95D00CB8F44 /* mat80.png in Resources */,
+				7A4F024B189C15FB00AA0CB2 /* Retta nel Piano Cartesiano.pdf in Resources */,
+				7A4F0252189C15FB00AA0CB2 /* Trigoniometria 2.pdf in Resources */,
+				7AF2E11518107CEC0035C17E /* glossario.png in Resources */,
+				7A4F0251189C15FB00AA0CB2 /* Trasformazioni Geometriche del Piano.pdf in Resources */,
+				7AE221471803623D00AF77AF /* Integrale_Glossario.pdf in Resources */,
+				7A4F0253189C15FB00AA0CB2 /* Trigonometria 1.pdf in Resources */,
+				7A4F0254189C15FB00AA0CB2 /* Vettori.pdf in Resources */,
+				7AE2D09F17F4B6420055D10F /* Goniometria - Trasformazioni geometriche.pdf in Resources */,
+				7AE2D0A017F4B6420055D10F /* Integrali - Funzioni.pdf in Resources */,
+				7A4F0214189C15DB00AA0CB2 /* Retta_Esercizi.pdf in Resources */,
+				7A4F0210189C15DB00AA0CB2 /* Logaritmi_Esercizi.pdf in Resources */,
+				7A32BEC018A05E5C00D286A4 /* logoipad.png in Resources */,
+				7AE220FB180355BE00AF77AF /* Bibliografia.pdf in Resources */,
+				7A32BEC818A05E5C00D286A4 /* testipad.png in Resources */,
+				7AE221491803623D00AF77AF /* Limite finito con X tendente a un valore finito_Glossario.pdf in Resources */,
+				7AE221541803623D00AF77AF /* Successione_Glossario.pdf in Resources */,
+				7AE2D0A117F4B6420055D10F /* Iperbole - Ellisse - Goniometria.pdf in Resources */,
+				7A5B55DA189D674A00E9BF0D /* mat40.png in Resources */,
+				7AE221531803623D00AF77AF /* Struttura algebrica e gruppo_Glossario.pdf in Resources */,
+				7AE2D0A217F4B6420055D10F /* Limiti - Derivate - Funzioni.pdf in Resources */,
+				B23D1FE117FC61A10098A556 /* mat114.png in Resources */,
+				7A32BEC918A05E5C00D286A4 /* testipad@2x.png in Resources */,
+				7A5B55E0189D676700E9BF0D /* mat76.png in Resources */,
+				7AE2D0A317F4B6420055D10F /* Limiti - Successioni.pdf in Resources */,
+				7A4F0213189C15DB00AA0CB2 /* Polinomi_Esercizi.pdf in Resources */,
+				7A4F023B189C15FA00AA0CB2 /* Ellisse.pdf in Resources */,
+				7A32BEB318A05E5C00D286A4 /* bottoneipad@2x.png in Resources */,
+				7AE2D0A417F4B6420055D10F /* Limiti.pdf in Resources */,
+				7A4F023D189C15FA00AA0CB2 /* Funzioni 1.pdf in Resources */,
+				7AE221451803623D00AF77AF /* Funzione di ripartizione_Glossario.pdf in Resources */,
+				7A4F024D189C15FB00AA0CB2 /* Statistica 2.pdf in Resources */,
+				7AE2D0A517F4B6420055D10F /* Logaritmi - Piano nello spazio - Retta nello spazio.pdf in Resources */,
+				B28DBA3C17F8CC1A00597F37 /* coniche@2x.png in Resources */,
+				7A4F0248189C15FB00AA0CB2 /* Numeri Naturali.pdf in Resources */,
+				7A4F020E189C15DB00AA0CB2 /* Limiti di Funzioni e Continuita _Esercizi.pdf in Resources */,
+				7AE2D0A617F4B6420055D10F /* Numeri complessi - Trasformazioni geometriche - Funzioni.pdf in Resources */,
+				7AD90AFA18A3F9D90006D9A8 /* fbipadmaths.png in Resources */,
+				7A32BEB818A05E5C00D286A4 /* formularioipad.png in Resources */,
+				7A32BEBF18A05E5C00D286A4 /* linksipad@2x.png in Resources */,
+				B23D1FD517FC61850098A556 /* Potenze e radicali.pdf in Resources */,
+				7A4F0216189C15DB00AA0CB2 /* Successioni_Esercizi.pdf in Resources */,
+				7A4F0206189C15DB00AA0CB2 /* Ellisse_Esercizi.pdf in Resources */,
+				7A4F0217189C15DB00AA0CB2 /* Trasformazioni Geometriche_Esercizi[smallpdf.com].pdf in Resources */,
+				7A4F0204189C15DB00AA0CB2 /* Circonferenza_Esercizi.pdf in Resources */,
+				7AA61710183F9903001EFC33 /* link.png in Resources */,
+				7AE221501803623D00AF77AF /* Probabilità_Glossario.pdf in Resources */,
+				7AF2E11B18107D050035C17E /* x2.png in Resources */,
+				7A4F0249189C15FB00AA0CB2 /* Parabola.pdf in Resources */,
+				7A4F020D189C15DB00AA0CB2 /* Iperbole_Esercizi.pdf in Resources */,
+				7AE2D0A717F4B6420055D10F /* Numeri naturali - Parabola - Circonferenza.pdf in Resources */,
+				7A32BEBB18A05E5C00D286A4 /* glossarioipad@2x.png in Resources */,
+				7AE2D0A817F4B6420055D10F /* Numeri naturali - Retta nel piano.pdf in Resources */,
+				7AE221421803623D00AF77AF /* Combinazione Lineare_Glossario.pdf in Resources */,
+				7A4F0215189C15DB00AA0CB2 /* Strutture algebriche_Esercizi.pdf in Resources */,
+				7AE2D0A917F4B6420055D10F /* Parabola - Ellisse - Circonferenza.pdf in Resources */,
+				7A4F0243189C15FB00AA0CB2 /* Iperbole.pdf in Resources */,
+				7A4F024C189C15FB00AA0CB2 /* Statistica 1.pdf in Resources */,
+				7A4F0219189C15DB00AA0CB2 /* Vettori_Esercizi.pdf in Resources */,
+				7AE2214A1803623D00AF77AF /* Limite finito di una successione_Glossario.pdf in Resources */,
+				7AD90AFC18A3F9DF0006D9A8 /* fbipadmaths@2x.png in Resources */,
+				7A5B55E4189D677F00E9BF0D /* mat144.png in Resources */,
+				7AE2214C1803623D00AF77AF /* Limite infinito di una successione_Glossario.pdf in Resources */,
+				B23D1FD217FC61850098A556 /* Insiemi.pdf in Resources */,
+				7A4F0207189C15DB00AA0CB2 /* Esponenziali_Esercizi.pdf in Resources */,
+				7AE2D0AA17F4B6420055D10F /* Simulazione Seconda Prova.pdf in Resources */,
+				7A8A3FF41804372500BF618D /* utility@2x.png in Resources */,
+				7A32BEB618A05E5C00D286A4 /* coveripad.png in Resources */,
+				7AF14B7C1804AAB9000AC372 /* twitter@2x.png in Resources */,
+				7AE2D0AB17F4B6420055D10F /* Trasformazioni geometriche - Goniometria.pdf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7ABDA0371794547400E17706 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7ABDA0461794547400E17706 /* InfoPlist.strings in Resources */,
+				7A90838717D6A24900AA36C8 /* MainStoryboard_iPhone.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		7ABDA0381794547400E17706 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7ABDA00D1794547300E17706 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7ABDA0211794547300E17706 /* main.m in Sources */,
+				7ABDA0251794547300E17706 /* SBAppDelegate.m in Sources */,
+				7ABDA0341794547300E17706 /* SBViewController.m in Sources */,
+				7A90838E17D751F100AA36C8 /* SBTableViewController.m in Sources */,
+				7A20534B189ABF8800F7014F /* SBNavigationController.m in Sources */,
+				7A9083A517DCC0E100AA36C8 /* SBSecondoGradoViewController.m in Sources */,
+				7A5230CD17EA5AD000F7FD85 /* SBConicheViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7ABDA0351794547400E17706 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7ABDA0491794547400E17706 /* Corso_di_MatematicaTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7ABDA0401794547400E17706 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7ABDA0101794547300E17706 /* Corso di Matematica */;
+			targetProxy = 7ABDA03F1794547400E17706 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		7ABDA0441794547400E17706 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7ABDA0451794547400E17706 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		7ABDA04A1794547400E17706 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		7ABDA04B1794547400E17706 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = NO;
+			};
+			name = Release;
+		};
+		7ABDA04D1794547400E17706 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = X6XZQV2VJL;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Corso di Matematica/Corso di Matematica-Prefix.pch";
+				INFOPLIST_FILE = "Corso di Matematica/Corso di Matematica-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = "Pocket Maths";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		7ABDA04E1794547400E17706 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = X6XZQV2VJL;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Corso di Matematica/Corso di Matematica-Prefix.pch";
+				INFOPLIST_FILE = "Corso di Matematica/Corso di Matematica-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = "Pocket Maths";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		7ABDA0501794547400E17706 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Corso di Matematica.app/Corso di Matematica";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Corso di Matematica/Corso di Matematica-Prefix.pch";
+				INFOPLIST_FILE = "Corso di MatematicaTests/Corso di MatematicaTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		7ABDA0511794547400E17706 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Corso di Matematica.app/Corso di Matematica";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Corso di Matematica/Corso di Matematica-Prefix.pch";
+				INFOPLIST_FILE = "Corso di MatematicaTests/Corso di MatematicaTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+		7AF14B7D1804AF1A000AC372 /* App Store */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "App Store";
+		};
+		7AF14B7E1804AF1A000AC372 /* App Store */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = X6XZQV2VJL;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Corso di Matematica/Corso di Matematica-Prefix.pch";
+				INFOPLIST_FILE = "Corso di Matematica/Corso di Matematica-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = "Pocket Maths";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = app;
+			};
+			name = "App Store";
+		};
+		7AF14B7F1804AF1A000AC372 /* App Store */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Corso di Matematica.app/Corso di Matematica";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Corso di Matematica/Corso di Matematica-Prefix.pch";
+				INFOPLIST_FILE = "Corso di MatematicaTests/Corso di MatematicaTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = "App Store";
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7ABDA00C1794547300E17706 /* Build configuration list for PBXProject "Pocket Maths" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7ABDA04A1794547400E17706 /* Debug */,
+				7ABDA04B1794547400E17706 /* Release */,
+				7AF14B7D1804AF1A000AC372 /* App Store */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7ABDA04C1794547400E17706 /* Build configuration list for PBXNativeTarget "Corso di Matematica" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7ABDA04D1794547400E17706 /* Debug */,
+				7ABDA04E1794547400E17706 /* Release */,
+				7AF14B7E1804AF1A000AC372 /* App Store */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7ABDA04F1794547400E17706 /* Build configuration list for PBXNativeTarget "Corso di MatematicaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7ABDA0501794547400E17706 /* Debug */,
+				7ABDA0511794547400E17706 /* Release */,
+				7AF14B7F1804AF1A000AC372 /* App Store */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7ABDA0091794547300E17706 /* Project object */;
+}

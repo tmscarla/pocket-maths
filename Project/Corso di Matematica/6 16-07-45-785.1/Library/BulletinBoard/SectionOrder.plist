@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SectionOrderIDs</key>
+	<array>
+		<string>com.apple.SocialWeeApp</string>
+		<string>com.apple.MobileSMS</string>
+		<string>com.apple.mobileslideshow</string>
+		<string>com.apple.gamecenter</string>
+		<string>com.apple.cmas</string>
+		<string>com.apple.mobilemail</string>
+	</array>
+	<key>SectionOrderRule</key>
+	<integer>0</integer>
+</dict>
+</plist>

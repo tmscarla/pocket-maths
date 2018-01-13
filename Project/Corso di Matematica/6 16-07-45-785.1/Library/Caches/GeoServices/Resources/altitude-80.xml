@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<manifest>
+<version major="0" minor="1"/>
+<registry>
+   <item key="C3_HeightMeshBaseURL" value="http://invalid.server/tile?style=17" />
+   <item key="USE_APPLE_HEIGHT_MESH" value="true" />
+   <item key="C3_DigitalGlobeBaseURL" value="http://invalid.server/tile?style=7" />
+   <item key="USE_APPLE_DG" value="true" />
+   <item key="C3_HeightMeshExtension" value="dtm" />
+</registry>
+<triggers>
+<trigger>
+   <data type="c3mesh" metaurlformat="c3h" metaurl="bundle://poles/northpole/0/0/map_0_0_0.c3h" dataurl="bundle://poles/northpole/"/>
+   <shape type="sphere" latitude="1.570796326" longitude="0" altitude="0.0" radius="600000"/>
+   <c3meshdata level="0"/>
+</trigger>
+<trigger>
+   <data type="c3mesh" metaurlformat="c3h" metaurl="bundle://poles/southpole/0/0/map_0_0_0.c3h" dataurl="bundle://poles/southpole/"/>
+   <shape type="sphere" latitude="-1.570796326" longitude="0" altitude="0.0" radius="600000"/>
+   <c3meshdata level="0"/>
+</trigger>
+<trigger altitude="-459.5" latitude="0.746132834807" level="13" longitude="-1.288578231732" max_level="20" maxsize_13="87521" maxsize_14="143855" maxsize_15="174144" maxsize_16="188141" maxsize_17="144918" maxsize_18="169328" maxsize_19="141853" maxsize_20="200441" name="albany" priority="0" radius="28256.6" region="95" version="1" />
+        
+<trigger altitude="198.0" latitude="0.669206069790" level="13" longitude="-0.008814883799" max_level="20" maxsize_13="75269" maxsize_14="126864" maxsize_15="209423" maxsize_16="173181" maxsize_17="137539" maxsize_18="126383" maxsize_19="133729" maxsize_20="138044" name="Alicante" priority="0" radius="28722.3" region="122" version="1" />
+        
+<trigger altitude="365.8" latitude="0.589860451393" level="13" longitude="-1.472601806374" max_level="20" maxsize_13="169499" maxsize_14="150496" maxsize_15="183362" maxsize_16="217938" maxsize_17="137956" maxsize_18="150566" maxsize_19="148013" maxsize_20="139437" name="atlanta" priority="0" radius="23977.6" region="23" version="3" />
+        
+<trigger altitude="-335.7" latitude="-0.643391474849" level="13" longitude="3.052573671956" max_level="20" maxsize_13="64106" maxsize_14="132040" maxsize_15="188904" maxsize_16="187082" maxsize_17="145431" maxsize_18="154944" maxsize_19="146381" maxsize_20="143235" name="Auckland" priority="0" radius="38442.5" region="98" version="8" />
+        
+<trigger altitude="-163.4" latitude="0.528143991852" level="13" longitude="-1.705028490271" max_level="20" maxsize_13="87157" maxsize_14="121416" maxsize_15="147519" maxsize_16="154298" maxsize_17="124568" maxsize_18="164754" maxsize_19="162799" maxsize_20="158515" name="austin" priority="0" radius="22034.7" region="35" version="5" />
+        
+<trigger altitude="-428.2" latitude="0.617086902444" level="13" longitude="-2.077974604584" max_level="20" maxsize_13="52675" maxsize_14="119507" maxsize_15="143470" maxsize_16="144396" maxsize_17="124896" maxsize_18="147306" maxsize_19="114168" maxsize_20="116059" name="bakersfield" priority="0" radius="23371.2" region="99" version="1" />
+        
+<trigger altitude="-49.6" latitude="0.685342187718" level="13" longitude="-1.336149432384" max_level="20" maxsize_13="82736" maxsize_14="140806" maxsize_15="207334" maxsize_16="193379" maxsize_17="146724" maxsize_18="142298" maxsize_19="138242" maxsize_20="145180" name="baltimore" priority="0" radius="20870.8" region="70" version="1" />
+        
+<trigger altitude="105.1" latitude="0.723619103851" level="13" longitude="0.038720215825" max_level="20" maxsize_13="112208" maxsize_14="153638" maxsize_15="176274" maxsize_16="187762" maxsize_17="153879" maxsize_18="146524" maxsize_19="135366" maxsize_20="140837" name="barcelona" priority="0" radius="29418.3" region="36" version="5" />
+        
+<trigger altitude="569.2" latitude="0.915652354153" level="13" longitude="0.234124893286" max_level="20" maxsize_13="83649" maxsize_14="114564" maxsize_15="158712" maxsize_16="175138" maxsize_17="123581" maxsize_18="128264" maxsize_19="122601" maxsize_20="115325" name="berlin" priority="0" radius="30405.4" region="12" version="2" />
+        
+<trigger altitude="121.5" latitude="0.916456683853" level="13" longitude="-0.034141969004" max_level="20" maxsize_13="52194" maxsize_14="82804" maxsize_15="131239" maxsize_16="135208" maxsize_17="119028" maxsize_18="104799" maxsize_19="103482" maxsize_20="114685" name="birmingham" priority="0" radius="26737.1" region="45" version="4" />
+        
+<trigger altitude="-1883.1" latitude="0.740113363410" level="13" longitude="-1.240203138419" max_level="20" maxsize_13="79484" maxsize_14="153491" maxsize_15="182607" maxsize_16="175045" maxsize_17="145212" maxsize_18="144531" maxsize_19="133601" maxsize_20="172597" name="boston" priority="0" radius="34847.2" region="39" version="3" />
+        
+<trigger altitude="81.0" latitude="0.749164657925" level="13" longitude="-1.376356009357" max_level="20" maxsize_13="121879" maxsize_14="148325" maxsize_15="223383" maxsize_16="201395" maxsize_17="136837" maxsize_18="136731" maxsize_19="130802" maxsize_20="145132" name="buffalo" priority="0" radius="25202.6" region="57" version="1" />
+        
+<trigger altitude="-344.4" latitude="0.890852149464" level="13" longitude="-1.990304250420" max_level="20" maxsize_13="58831" maxsize_14="121535" maxsize_15="140826" maxsize_16="139788" maxsize_17="123621" maxsize_18="126931" maxsize_19="119715" maxsize_20="123480" name="calgary" priority="0" radius="27378.3" region="40" version="4" />
+        
+<trigger altitude="-20.8" latitude="0.728435291258" level="13" longitude="-1.527377670707" max_level="20" maxsize_13="110843" maxsize_14="161684" maxsize_15="183439" maxsize_16="215772" maxsize_17="144811" maxsize_18="136223" maxsize_19="131306" maxsize_20="146669" name="chicago" priority="0" radius="63640.2" region="2" version="6" />
+        
+<trigger altitude="139.0" latitude="0.723881340147" level="13" longitude="-1.426142519178" max_level="20" maxsize_13="74230" maxsize_14="150399" maxsize_15="183713" maxsize_16="196548" maxsize_17="145103" maxsize_18="171931" maxsize_19="162041" maxsize_20="157281" name="cleveland" priority="0" radius="23636.2" region="94" version="1" />
+        
+<trigger altitude="128.7" latitude="0.889153603186" level="13" longitude="0.121605188917" max_level="20" maxsize_13="69892" maxsize_14="141464" maxsize_15="145127" maxsize_16="151317" maxsize_17="122817" maxsize_18="115970" maxsize_19="112120" maxsize_20="123762" name="cologne" priority="0" radius="18283.4" region="76" version="1" />
+        
+<trigger altitude="-421.9" latitude="0.972282851168" level="13" longitude="0.215741429603" max_level="20" maxsize_13="71266" maxsize_14="114624" maxsize_15="140696" maxsize_16="154329" maxsize_17="127953" maxsize_18="109660" maxsize_19="109885" maxsize_20="113836" name="copenhagen" priority="0" radius="32107.5" region="14" version="5" />
+        
+<trigger altitude="926.5" latitude="0.571838984099" level="13" longitude="-1.694235120407" max_level="20" maxsize_13="93213" maxsize_14="131764" maxsize_15="142998" maxsize_16="148727" maxsize_17="125974" maxsize_18="141372" maxsize_19="134852" maxsize_20="141877" name="dallas" priority="0" radius="30232.0" region="29" version="2" />
+        
+<trigger altitude="1266.1" latitude="0.694843898709" level="13" longitude="-1.832748677608" max_level="20" maxsize_13="79292" maxsize_14="165895" maxsize_15="179230" maxsize_16="180781" maxsize_17="149669" maxsize_18="125241" maxsize_19="127254" maxsize_20="120514" name="denver" priority="0" radius="45265.0" region="25" version="4" />
+        
+<trigger altitude="-146.1" latitude="0.931067707779" level="13" longitude="-0.108572246206" max_level="20" maxsize_13="75277" maxsize_14="72046" maxsize_15="96972" maxsize_16="91461" maxsize_17="88485" maxsize_18="101621" maxsize_19="106755" maxsize_20="111898" name="dublin" priority="0" radius="8974.0" region="46" version="3" />
+        
+<trigger altitude="-1479.7" latitude="0.642327875879" level="13" longitude="-2.090132871865" max_level="20" maxsize_13="60139" maxsize_14="122178" maxsize_15="176636" maxsize_16="172505" maxsize_17="129313" maxsize_18="160916" maxsize_19="123781" maxsize_20="116595" name="fresno" priority="0" radius="27347.8" region="106" version="1" />
+        
+<trigger altitude="71.8" latitude="0.974773889789" level="13" longitude="-0.074424318937" max_level="20" maxsize_13="60785" maxsize_14="100928" maxsize_15="125796" maxsize_16="113050" maxsize_17="110373" maxsize_18="93191" maxsize_19="100298" maxsize_20="104455" name="glasgow" priority="0" radius="14334.3" region="64" version="1" />
+        
+<trigger altitude="183.1" latitude="0.776597651178" level="13" longitude="-1.536306433602" max_level="20" maxsize_13="51751" maxsize_14="150043" maxsize_15="183210" maxsize_16="188266" maxsize_17="135048" maxsize_18="129086" maxsize_19="119140" maxsize_20="131901" name="greenbay" priority="0" radius="20074.5" region="93" version="1" />
+        
+<trigger altitude="667.8" latitude="0.371541456299" level="13" longitude="-2.754687606345" max_level="20" maxsize_13="92402" maxsize_14="126904" maxsize_15="169056" maxsize_16="153233" maxsize_17="129330" maxsize_18="150588" maxsize_19="142180" maxsize_20="157574" name="honolulu" priority="0" radius="8946.5" region="26" version="2" />
+        
+<trigger altitude="396.7" latitude="0.628564921658" level="13" longitude="-2.002617427612" max_level="20" maxsize_13="61896" maxsize_14="98490" maxsize_15="116801" maxsize_16="109744" maxsize_17="95066" maxsize_18="129469" maxsize_19="153000" maxsize_20="166472" name="hoover_dam" priority="0" radius="8822.0" region="108" version="2" />
+        
+<trigger altitude="-268.2" latitude="0.519500967196" level="13" longitude="-1.664395091526" max_level="20" maxsize_13="119219" maxsize_14="147908" maxsize_15="231494" maxsize_16="229825" maxsize_17="140496" maxsize_18="153357" maxsize_19="146241" maxsize_20="144634" name="houston" priority="0" radius="31131.3" region="20" version="6" />
+        
+<trigger altitude="12.8" latitude="0.693913383901" level="13" longitude="-1.504416876438" max_level="20" maxsize_13="88727" maxsize_14="148417" maxsize_15="169439" maxsize_16="190220" maxsize_17="134150" maxsize_18="125998" maxsize_19="124412" maxsize_20="117093" name="indianapolis" priority="0" radius="21974.2" region="60" version="1" />
+        
+<trigger altitude="392.8" latitude="0.630433809968" level="13" longitude="-2.010197158684" max_level="20" maxsize_13="106712" maxsize_14="104228" maxsize_15="109542" maxsize_16="127909" maxsize_17="109299" maxsize_18="141295" maxsize_19="154208" maxsize_20="174791" name="las_vegas" priority="0" radius="14103.7" region="9" version="6" />
+        
+<trigger altitude="64.4" latitude="0.898756312542" level="13" longitude="-0.001537197701" max_level="20" maxsize_13="93387" maxsize_14="125440" maxsize_15="135335" maxsize_16="130795" maxsize_17="118593" maxsize_18="107512" maxsize_19="104869" maxsize_20="117619" name="london" priority="0" radius="14181.9" region="30" version="3" />
+        
+<trigger altitude="-4632.6" latitude="0.592290131830" level="13" longitude="-2.059807653847" max_level="20" maxsize_13="103213" maxsize_14="137901" maxsize_15="207347" maxsize_16="214792" maxsize_17="304580" maxsize_18="173168" maxsize_19="144084" maxsize_20="147661" name="los_angeles" priority="0" radius="99873.4" region="3" version="12" />
+        
+<trigger altitude="667.0" latitude="0.798201672265" level="13" longitude="0.086233175475" max_level="20" maxsize_13="74103" maxsize_14="137031" maxsize_15="157552" maxsize_16="155106" maxsize_17="126310" maxsize_18="126637" maxsize_19="125046" maxsize_20="132400" name="lyon" priority="0" radius="23723.0" region="31" version="2" />
+        
+<trigger altitude="719.6" latitude="0.704751312800" level="13" longitude="-0.065225867491" max_level="20" maxsize_13="152947" maxsize_14="159318" maxsize_15="212821" maxsize_16="179949" maxsize_17="151636" maxsize_18="138603" maxsize_19="129254" maxsize_20="139887" name="madrid" priority="0" radius="24203.7" region="13" version="5" />
+        
+<trigger altitude="18.0" latitude="0.933323172690" level="13" longitude="-0.039117621173" max_level="20" maxsize_13="42508" maxsize_14="68505" maxsize_15="107089" maxsize_16="93077" maxsize_17="99865" maxsize_18="112317" maxsize_19="125875" maxsize_20="130683" name="manchester" priority="0" radius="11513.2" region="47" version="2" />
+        
+<trigger altitude="402.0" latitude="-0.659473156680" level="13" longitude="2.529773571949" max_level="20" maxsize_13="113561" maxsize_14="129427" maxsize_15="182012" maxsize_16="173578" maxsize_17="136857" maxsize_18="127074" maxsize_19="120553" maxsize_20="138236" name="melbourne" priority="0" radius="23554.5" region="10" version="5" />
+        
+<trigger altitude="-4.0" latitude="0.613583438772" level="13" longitude="-1.571180243404" max_level="20" maxsize_13="84592" maxsize_14="143205" maxsize_15="153170" maxsize_16="143554" maxsize_17="120278" maxsize_18="158411" maxsize_19="158522" maxsize_20="132977" name="memphis" priority="0" radius="14211.3" region="24" version="3" />
+        
+<trigger altitude="-42.3" latitude="0.449948547645" level="13" longitude="-1.399374526300" max_level="20" maxsize_13="104883" maxsize_14="99470" maxsize_15="153395" maxsize_16="195763" maxsize_17="124806" maxsize_18="167257" maxsize_19="182172" maxsize_20="152334" name="miami" priority="0" radius="10086.4" region="8" version="2" />
+        
+<trigger altitude="150.8" latitude="0.793693113334" level="13" longitude="0.160344599439" max_level="20" maxsize_13="103355" maxsize_14="133158" maxsize_15="157115" maxsize_16="140164" maxsize_17="124840" maxsize_18="148067" maxsize_19="137412" maxsize_20="143904" name="milan" priority="0" radius="6780.7" region="37" version="3" />
+        
+<trigger altitude="158.2" latitude="0.751124894314" level="13" longitude="-1.535126384026" max_level="20" maxsize_13="77856" maxsize_14="150998" maxsize_15="175532" maxsize_16="180560" maxsize_17="137220" maxsize_18="116562" maxsize_19="118386" maxsize_20="116970" name="milwaukee" priority="0" radius="19523.4" region="123" version="4" />
+        
+<trigger altitude="-213.5" latitude="0.784600592238" level="13" longitude="-1.626050805275" max_level="20" maxsize_13="90393" maxsize_14="152025" maxsize_15="178762" maxsize_16="190521" maxsize_17="139393" maxsize_18="128483" maxsize_19="122124" maxsize_20="130656" name="minneapolis" priority="0" radius="23866.2" region="61" version="2" />
+        
+<trigger altitude="-1165.1" latitude="0.657231995323" level="13" longitude="-2.111447049097" max_level="20" maxsize_13="51339" maxsize_14="127505" maxsize_15="163918" maxsize_16="162975" maxsize_17="153901" maxsize_18="149444" maxsize_19="131187" maxsize_20="118027" name="modesto" priority="0" radius="18406.2" region="92" version="1" />
+        
+<trigger altitude="-394.8" latitude="0.795071806027" level="13" longitude="-1.286134923121" max_level="20" maxsize_13="70736" maxsize_14="109121" maxsize_15="128346" maxsize_16="130029" maxsize_17="111408" maxsize_18="141250" maxsize_19="136120" maxsize_20="130475" name="montreal" priority="0" radius="47083.2" region="5" version="5" />
+        
+<trigger altitude="797.1" latitude="0.840110374848" level="13" longitude="0.201703499851" max_level="20" maxsize_13="94689" maxsize_14="129494" maxsize_15="142536" maxsize_16="148255" maxsize_17="125616" maxsize_18="125819" maxsize_19="121159" maxsize_20="119163" name="munich" priority="0" radius="10441.9" region="32" version="4" />
+        
+<trigger altitude="-267.2" latitude="0.630760476881" level="13" longitude="-1.513160107262" max_level="20" maxsize_13="96707" maxsize_14="159196" maxsize_15="216409" maxsize_16="213865" maxsize_17="150501" maxsize_18="149403" maxsize_19="145000" maxsize_20="136732" name="nashville" priority="0" radius="33989.5" region="85" version="3" />
+        
+<trigger altitude="-85.1" latitude="0.522475887781" level="13" longitude="-1.573098025266" max_level="20" maxsize_13="100413" maxsize_14="142941" maxsize_15="249140" maxsize_16="238277" maxsize_17="143314" maxsize_18="161438" maxsize_19="149386" maxsize_20="176653" name="new_orleans" priority="0" radius="35332.7" region="18" version="5" />
+        
+<trigger altitude="359.0" latitude="0.711114471710" level="13" longitude="-1.290804987812" max_level="20" maxsize_13="159301" maxsize_14="172186" maxsize_15="184204" maxsize_16="181283" maxsize_17="146572" maxsize_18="146047" maxsize_19="134747" maxsize_20="152216" name="new_york" priority="0" radius="26398.6" region="38" version="5" />
+        
+<trigger altitude="532.1" latitude="0.853002765417" level="13" longitude="0.042201930119" max_level="20" maxsize_13="71155" maxsize_14="338856" maxsize_15="273990" maxsize_16="277388" maxsize_17="130063" maxsize_18="126578" maxsize_19="162420" maxsize_20="127860" name="paris" priority="0" radius="38586.5" region="48" version="13" />
+        
+<trigger altitude="-369.8" latitude="0.697201967692" level="13" longitude="-1.311911775804" max_level="20" maxsize_13="77635" maxsize_14="115639" maxsize_15="140657" maxsize_16="140413" maxsize_17="121980" maxsize_18="136580" maxsize_19="125124" maxsize_20="139971" name="philadelphia" priority="0" radius="7577.3" region="41" version="1" />
+        
+<trigger altitude="406.0" latitude="0.584118168875" level="13" longitude="-1.955902378417" max_level="20" maxsize_13="41979" maxsize_14="64458" maxsize_15="112429" maxsize_16="106331" maxsize_17="96910" maxsize_18="125087" maxsize_19="137036" maxsize_20="118281" name="phoenix" priority="0" radius="6619.7" region="21" version="2" />
+        
+<trigger altitude="2669.9" latitude="0.794870324601" level="13" longitude="-2.140474523257" max_level="20" maxsize_13="139715" maxsize_14="150108" maxsize_15="221196" maxsize_16="204412" maxsize_17="143924" maxsize_18="147011" maxsize_19="237961" maxsize_20="197557" name="portland" priority="0" radius="33155.7" region="42" version="2" />
+        
+<trigger altitude="64.7" latitude="0.762275415304" level="13" longitude="-1.226716537939" max_level="20" maxsize_13="78906" maxsize_14="152615" maxsize_15="181427" maxsize_16="179394" maxsize_17="146723" maxsize_18="139542" maxsize_19="135493" maxsize_20="129572" name="portland_me" priority="0" radius="16378.7" region="91" version="1" />
+        
+<trigger altitude="-25.9" latitude="0.730191829503" level="13" longitude="-1.246358370322" max_level="20" maxsize_13="75443" maxsize_14="128762" maxsize_15="174048" maxsize_16="167463" maxsize_17="135509" maxsize_18="122708" maxsize_19="118408" maxsize_20="117415" name="providence" priority="0" radius="12326.0" region="89" version="1" />
+        
+<trigger altitude="334.6" latitude="0.731005001409" level="13" longitude="0.218588455264" max_level="20" maxsize_13="148566" maxsize_14="161797" maxsize_15="195783" maxsize_16="190422" maxsize_17="145851" maxsize_18="223533" maxsize_19="142999" maxsize_20="167245" name="rome" priority="0" radius="26093.7" region="11" version="7" />
+        
+<trigger altitude="-639.0" latitude="0.673760979501" level="13" longitude="-2.119337075903" max_level="20" maxsize_13="67000" maxsize_14="130923" maxsize_15="135403" maxsize_16="139671" maxsize_17="116923" maxsize_18="137176" maxsize_19="128248" maxsize_20="114859" name="sacramento" priority="0" radius="26901.5" region="6" version="4" />
+        
+<trigger altitude="866.9" latitude="0.784099941984" level="13" longitude="-2.147227179792" max_level="20" maxsize_13="59625" maxsize_14="132027" maxsize_15="171138" maxsize_16="199681" maxsize_17="134862" maxsize_18="131904" maxsize_19="130365" maxsize_20="138125" name="salem" priority="0" radius="20580.5" region="121" version="1" />
+        
+<trigger altitude="-1913.2" latitude="0.571141048956" level="13" longitude="-2.043200145989" max_level="20" maxsize_13="123847" maxsize_14="122672" maxsize_15="192121" maxsize_16="169766" maxsize_17="131518" maxsize_18="194343" maxsize_19="160278" maxsize_20="184364" name="san_diego" priority="0" radius="34019.4" region="22" version="4" />
+        
+<trigger altitude="-2280.1" latitude="0.658597041671" level="13" longitude="-2.135099533358" max_level="20" maxsize_13="93200" maxsize_14="132687" maxsize_15="209389" maxsize_16="182602" maxsize_17="139592" maxsize_18="180431" maxsize_19="206691" maxsize_20="196620" name="san_francisco" priority="0" radius="36392.2" region="1" version="5" />
+        
+<trigger altitude="1619.1" latitude="0.652350464131" level="13" longitude="-2.129084788849" max_level="20" maxsize_13="88648" maxsize_14="104346" maxsize_15="144153" maxsize_16="171270" maxsize_17="135288" maxsize_18="151110" maxsize_19="154850" maxsize_20="161507" name="san_jose" priority="0" radius="23204.4" region="16" version="5" />
+        
+<trigger altitude="1933.9" latitude="0.830217448144" level="13" longitude="-2.135444547456" max_level="20" maxsize_13="69208" maxsize_14="122448" maxsize_15="159081" maxsize_16="143333" maxsize_17="118124" maxsize_18="157012" maxsize_19="153884" maxsize_20="231639" name="seattle" priority="0" radius="57160.3" region="7" version="3" />
+        
+<trigger altitude="-34.8" latitude="0.653449120869" level="13" longitude="-2.132233644938" max_level="20" maxsize_13="47891" maxsize_14="66301" maxsize_15="113572" maxsize_16="129081" maxsize_17="122819" maxsize_18="125668" maxsize_19="123525" maxsize_20="117637" name="stanford" priority="0" radius="7045.8" region="17" version="3" />
+        
+<trigger altitude="-285.7" latitude="1.028589416508" level="13" longitude="0.296279278786" max_level="20" maxsize_13="58527" maxsize_14="122096" maxsize_15="100095" maxsize_16="156852" maxsize_17="131186" maxsize_18="105039" maxsize_19="112750" maxsize_20="129853" name="stockholm" priority="0" radius="109729.4" region="15" version="4" />
+        
+<trigger altitude="-323.3" latitude="0.662884765701" level="13" longitude="-2.116788383569" max_level="20" maxsize_13="76167" maxsize_14="116383" maxsize_15="173587" maxsize_16="165241" maxsize_17="150446" maxsize_18="153085" maxsize_19="135443" maxsize_20="125567" name="stockton" priority="0" radius="20993.5" region="90" version="1" />
+        
+<trigger altitude="894.0" latitude="-0.590415719582" level="13" longitude="2.636910133520" max_level="20" maxsize_13="83892" maxsize_14="143978" maxsize_15="217534" maxsize_16="225324" maxsize_17="137577" maxsize_18="1704 38" maxsize_19="144439" maxsize_20="144233" name="Sydney" priority="0" radius="32664.8" region="4" version="7" />
+        
+<trigger altitude="620.5" latitude="0.763030613866" level="13" longitude="-1.387569949060" max_level="20" maxsize_13="121208" maxsize_14="140717" maxsize_15="188599" maxsize_16="195216" maxsize_17="141991" maxsize_18="136581" maxsize_19="130583" maxsize_20="140551" name="toronto" priority="0" radius="42410.0" region="43" version="3" />
+<trigger altitude="148.8" latitude="0.631036550768" level="13" longitude="-1.675107974095" max_level="20" maxsize_13="73829" maxsize_14="138228" maxsize_15="180569" maxsize_16="180281" maxsize_17="130348" maxsize_18="124775" maxsize_19="123725" maxsize_20="119537" name="tulsa" priority="0" radius="10528.7" region="56" version="1" />
+        
+<trigger altitude="-512.4" latitude="0.859306911303" level="13" longitude="-2.146782927541" max_level="20" maxsize_13="71743" maxsize_14="117512" maxsize_15="148220" maxsize_16="172802" maxsize_17="136103" maxsize_18="138240" maxsize_19="133455" maxsize_20="127516" name="vancouver" priority="0" radius="33353.6" region="44" version="6" />
+        
+</triggers>
+</manifest>
