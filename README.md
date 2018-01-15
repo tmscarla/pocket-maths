@@ -1,7 +1,11 @@
-<p align="center" valign="middle">
-  <img src="https://github.com/tmscarla/PocketMaths/blob/master/readmeImg/mathsicon.png" height="110">
-  <img src="https://github.com/tmscarla/PocketMaths/blob/master/readmeImg/logo-liceo-Castelnuovo.png" height="120">
+<p align="center">
+  <img src="https://github.com/tmscarla/PocketMaths/blob/master/readmeImg/mathsicon.png" height="120">
+  <img src="https://github.com/tmscarla/PocketMaths/blob/master/readmeImg/logo-liceo-Castelnuovo.png" height="130">
 </p>
+<p align="center">
+ <img src="https://github.com/tmscarla/PocketMaths/blob/master/Screen/mathscreen.png" width="280">
+</p>
+
 
 # PocketMaths
 An iOS app with mathematics lectures for high school, exercises, exam tests and utilities (in italian). Bring your maths with you!
