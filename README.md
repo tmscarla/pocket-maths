@@ -3,7 +3,7 @@
   <img src="https://github.com/tmscarla/PocketMaths/blob/master/readmeImg/logo-liceo-Castelnuovo.png" height="130">
 </p>
 <p align="center">
- <img src="https://github.com/tmscarla/PocketMaths/blob/master/Screen/mathscreen.png" width="280">
+ <img src="https://github.com/tmscarla/PocketMaths/blob/master/Screen/screen.png" width="270">
 </p>
 
 
