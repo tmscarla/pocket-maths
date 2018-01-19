@@ -1,3 +1,8 @@
+---
+title: Pocket Maths
+layout: post
+---
+
 <p align="center">
   <img src="https://github.com/tmscarla/PocketMaths/blob/master/readmeImg/mathsicon.png" height="120">
   <img src="https://github.com/tmscarla/PocketMaths/blob/master/readmeImg/logo-liceo-Castelnuovo.png" height="130">
