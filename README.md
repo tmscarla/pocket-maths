@@ -1,8 +1,3 @@
----
-title: Pocket Maths
-layout: post
----
-
 <p align="center">
   <img src="https://github.com/tmscarla/PocketMaths/blob/master/readmeImg/mathsicon.png" height="120">
   <img src="https://github.com/tmscarla/PocketMaths/blob/master/readmeImg/logo-liceo-Castelnuovo.png" height="130">
@@ -23,6 +18,12 @@ We also created a startup with the fancy name "SB AppStudios".
 <p align="center">
  <img src="https://github.com/tmscarla/PocketMaths/blob/master/Screen/SB.png" width="150">
 </p>
+
+<p align="center">
+<img src="https://github.com/tmscarla/PocketMaths/blob/master/readmeImg/repubblica.png" height="400">
+<img src="https://github.com/tmscarla/PocketMaths/blob/master/readmeImg/corriere.png" height="400">
+</p>
+
 
 ## Getting Started
 At the moment, the app is no longer supported. In order to launch the application, just open the Xcode project file in the Project folder and select a compatible deployment target.
