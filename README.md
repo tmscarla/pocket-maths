@@ -7,7 +7,7 @@
 </p>
 
 
-# PocketMaths
+# Pocket Maths
 An iOS app with mathematics lectures for high school, exercises, exam tests and utilities (in italian). Bring your maths with you!
 
 ## A Bit of History
